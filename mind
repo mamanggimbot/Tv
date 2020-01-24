@@ -269,9 +269,9 @@ https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_small.png" group-title="Sports",FOX Sport 1
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_small.png" group-title="Sports",FOX Sport 2
-http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+https://www.livedoomovie.com/02_FoxSport2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports3_small.png" group-title="Sports",FOX Sport 3
-http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lCA8mA7.png" group-title="Sports", True Premier Football 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lCA8mA7.png" group-title="Sports", True Premier Football 2
