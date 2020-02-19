@@ -129,21 +129,19 @@ https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFX5h2r/FX-movie.png" group-title="Movies", FX
 https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
-https://jago.tv21.me/live/rayga/3456/usee/warner/index.m3u8
-#https://dl.dropbox.com/s/v2yni1a6gy495sp/Warnertv.m3u8?dl=0
+https://dl.dropbox.com/s/v2yni1a6gy495sp/Warnertv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
-https://jago.tv21.me/live/rayga/3456/usee/axn/index.m3u8
-#http://210.210.155.66/h/h141/02.m3u8
+http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZmTMML/Crime-investigation.png" group-title="Movies", Crime Investigation
 #https://anevia115.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MjExMDAzMX19fV19&Signature=rX7NpgHp4c1crUxNMDrOTvyGG8wNlO84zJfO~DCvk-fM2Dc0EB7wcMX30CjZBpSze0ammvi74l7qJixo5nQmgcKFJm1LKrDQpY8KDzh-mfPRGJOVZRtBEJud~SBPN4XfKPUtvfTkztQZy0tSUaOgjXIfLGpot88AGwpkXrfGNeLIMhvRDVzts20W0NEMAXsfz9RAs32tEuXzz1~Tx5QhlHpORp5aK~I-TBqHrQOWnsboaIlT~VHjGwHjJRyf3OSyru5O2rRDgpxzv8RtpWnwZj5V0AUY5yEtwkmzRAqgoy-GHpbN~spOMnUzDFdYpe71G4SmNbBLG6lTGRkDRXhqEA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MjI4MjgzM319fV19&Signature=m~cQr0nbtlomNQfFdTCT0DjdwYePvrRSbj7ReztnzdHVWUlbQCCQ6tK~Jl7zuqMhI10d8PdXDNXpDm0-1m3m80O0DYalPuikb4-hX56z9I9Xw9z1cvXCLunsv3sLndFasnBAgEHhBIsdiYNNrCuD33dKgz9mNcdU6MQTnmsueG8rvQv2G1jah~eYcfTFQxM1Es~fVgD9wqaGIlE~kUbyHjHU~ZWmIqq0CYZzhD7blBhs2HGQyNxrmor8LuIZc7WY~yPe6hFk8~vqO35EX3m4WjWXHpnwNsrnsZ9GvTzpRNBgffDv~FKZoCI4OzXv6OHE-a5ZPtk~9Zby0Fi7kRDRjA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
 https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
 https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO Family
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MjExMDAzMX19fV19&Signature=rX7NpgHp4c1crUxNMDrOTvyGG8wNlO84zJfO~DCvk-fM2Dc0EB7wcMX30CjZBpSze0ammvi74l7qJixo5nQmgcKFJm1LKrDQpY8KDzh-mfPRGJOVZRtBEJud~SBPN4XfKPUtvfTkztQZy0tSUaOgjXIfLGpot88AGwpkXrfGNeLIMhvRDVzts20W0NEMAXsfz9RAs32tEuXzz1~Tx5QhlHpORp5aK~I-TBqHrQOWnsboaIlT~VHjGwHjJRyf3OSyru5O2rRDgpxzv8RtpWnwZj5V0AUY5yEtwkmzRAqgoy-GHpbN~spOMnUzDFdYpe71G4SmNbBLG6lTGRkDRXhqEA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MjI4MjgzM319fV19&Signature=m~cQr0nbtlomNQfFdTCT0DjdwYePvrRSbj7ReztnzdHVWUlbQCCQ6tK~Jl7zuqMhI10d8PdXDNXpDm0-1m3m80O0DYalPuikb4-hX56z9I9Xw9z1cvXCLunsv3sLndFasnBAgEHhBIsdiYNNrCuD33dKgz9mNcdU6MQTnmsueG8rvQv2G1jah~eYcfTFQxM1Es~fVgD9wqaGIlE~kUbyHjHU~ZWmIqq0CYZzhD7blBhs2HGQyNxrmor8LuIZc7WY~yPe6hFk8~vqO35EX3m4WjWXHpnwNsrnsZ9GvTzpRNBgffDv~FKZoCI4OzXv6OHE-a5ZPtk~9Zby0Fi7kRDRjA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
 https://anevia115.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCdsWtP/foxcrime.png" group-title="Movies", FOX Crime
@@ -155,7 +153,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="Movies", Cinemax
 https://anevia115.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MjExMDAzMX19fV19&Signature=rX7NpgHp4c1crUxNMDrOTvyGG8wNlO84zJfO~DCvk-fM2Dc0EB7wcMX30CjZBpSze0ammvi74l7qJixo5nQmgcKFJm1LKrDQpY8KDzh-mfPRGJOVZRtBEJud~SBPN4XfKPUtvfTkztQZy0tSUaOgjXIfLGpot88AGwpkXrfGNeLIMhvRDVzts20W0NEMAXsfz9RAs32tEuXzz1~Tx5QhlHpORp5aK~I-TBqHrQOWnsboaIlT~VHjGwHjJRyf3OSyru5O2rRDgpxzv8RtpWnwZj5V0AUY5yEtwkmzRAqgoy-GHpbN~spOMnUzDFdYpe71G4SmNbBLG6lTGRkDRXhqEA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MjI4MjgzM319fV19&Signature=m~cQr0nbtlomNQfFdTCT0DjdwYePvrRSbj7ReztnzdHVWUlbQCCQ6tK~Jl7zuqMhI10d8PdXDNXpDm0-1m3m80O0DYalPuikb4-hX56z9I9Xw9z1cvXCLunsv3sLndFasnBAgEHhBIsdiYNNrCuD33dKgz9mNcdU6MQTnmsueG8rvQv2G1jah~eYcfTFQxM1Es~fVgD9wqaGIlE~kUbyHjHU~ZWmIqq0CYZzhD7blBhs2HGQyNxrmor8LuIZc7WY~yPe6hFk8~vqO35EX3m4WjWXHpnwNsrnsZ9GvTzpRNBgffDv~FKZoCI4OzXv6OHE-a5ZPtk~9Zby0Fi7kRDRjA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYb1c5V/TVN.png" group-title="Movies", TvN
 https://anevia115.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3SPBFc0/Tvn-Movies.png" group-title="Movies", TvN movies
