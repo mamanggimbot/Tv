@@ -154,7 +154,7 @@ https://anevia114.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium-av
 https://anevia114.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #http://sync1b.iptv.bingo/live/46446?u=1889044&s=296d3be4ce4ccc81c4d978055925c4c0a76984638eb790ed6b4124bf563f532e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="Movies", Cinemax
-https://anevia114.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MjM2OTIzNH19fV19&Signature=hWghsGB50NjRqBypm5Bia-uafP8S~6pktAFq4SADtGmynI25T4YeWKUJI1dJ-obNb-KW63Eu71mYZL9VEEjMhqcgRh2qea8y4hZCY5XAu1oSqt7Lr30zcrMPnbgNg5AZbXVpaZ4srs9ioAhQvllhUSKDN3vPsOYaAJXaxuoiHlDv8O5v-XRW6x0QVfCSylBmQ4tv6mnLLEt0hRc1PoiXFuyrnVsVdIqMyxutDdVemO8XRaK7w-UyjZLBcIY~oljhhSUVesXDQYtCZQ3q09wbzF4zdCRlYpK50ai3La0y8ddPXgUusHTwBhQ1MEFPPclUGC4KnqB6bFbRhQ2a9fc7ZQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MjI4MjgzM319fV19&Signature=m~cQr0nbtlomNQfFdTCT0DjdwYePvrRSbj7ReztnzdHVWUlbQCCQ6tK~Jl7zuqMhI10d8PdXDNXpDm0-1m3m80O0DYalPuikb4-hX56z9I9Xw9z1cvXCLunsv3sLndFasnBAgEHhBIsdiYNNrCuD33dKgz9mNcdU6MQTnmsueG8rvQv2G1jah~eYcfTFQxM1Es~fVgD9wqaGIlE~kUbyHjHU~ZWmIqq0CYZzhD7blBhs2HGQyNxrmor8LuIZc7WY~yPe6hFk8~vqO35EX3m4WjWXHpnwNsrnsZ9GvTzpRNBgffDv~FKZoCI4OzXv6OHE-a5ZPtk~9Zby0Fi7kRDRjA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYb1c5V/TVN.png" group-title="Movies", TvN
@@ -171,14 +171,15 @@ https://anevia114.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_en
 https://anevia114.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGSkBrn/Hits.png" group-title="Movies", Hits
 https://anevia114.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DQkw96r/Cinema-World.png" group-title="Movies",Cinema World
-http://210.210.155.35/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbnj3wQ/Thrill.png" group-title="Movies", Thrill
+https://anevia114.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
 http://45.126.83.51/session/d65c030a-01a0-11ea-810d-82939a388d5a/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbnj3wQ/Thrill.png" group-title="Movies", Thrill
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQkw96r/Cinema-World.png" group-title="Movies",Cinema World
+http://210.210.155.35/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0KS3CSF/kplus.png" group-title="Movies", K Plus
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J7g3HDR/Sony-Gem.png" group-title="Movies", Sony Gem
