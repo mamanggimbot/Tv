@@ -190,43 +190,46 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 
 #Knowledge
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w6TsJqC/idku.png" group-title="Knowledge", ID ku
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png?v=2.0.0.14" group-title="Knowledge", ID ku
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560166~exp=9007200830301157~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=726790f4481ebf1b4f1270a236084230ba8eef1af78b75e6dbbf3909612e4d42
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYCKSX6/Ruang-Tampil.png" group-title="Knowledge",Ruang Terampil
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Knowledge",Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1QGHXrn/useephoto.png" group-title="Knowledge", Usee Photo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dhKnCid.png" group-title="Knowledge", Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560124~exp=9007200830301115~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=df1895ab7d75062dab8c53f11031484962c78a4059232d5597b624d85ac3993a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JH6xrQm/useeprime.png" group-title="Knowledge", Usee Prime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OvK16mw.png" group-title="Knowledge", Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560046~exp=9007200830301037~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=63478ab3ea286fb358e2fdb6aceaf9bc19bb79dfcd13ecd3b820ca7eff0c19b7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gv94zhx/Foodie-channel.png" group-title="Knowledge",Foodie Channel
-#http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rbgmLTq/BBC-Earth.png" group-title="Knowledge", BBC Earth
-#https://jago1.tv21.me/live/rayga/3456/premium/bbcearth/index.m3u8
-#https://anevia115.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SrzQFzm/Asian-food.png" group-title="Knowledge", Asian Food Channel
-https://jago.tv21.me/live/rayga/3456/usee/afc/index.m3u8
-#https://anevia115.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRs7gvD/Redbull.png" group-title="Knowledge", Red Bull Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPS9GSt.png" group-title="Knowledge",Foodie Channel
+http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cdm9Jks/BBC-Earth.png" group-title="Knowledge", BBC Earth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DhDULwJ.png" group-title="Knowledge", Red Bull Tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hWYTyQ0/Discovery-channel.png" group-title="Knowledge", Discovery Chanel
-https://jago.tv21.me/live/rayga/3456/usee/disco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TYjsWL7/Animal-Planet.png" group-title="Knowledge", Animal Planet
 https://anevia115.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XYxTgx3/History.png" group-title="Knowledge",History
-https://jago.tv21.me/live/rayga/3456/usee/history/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpJNp7F/natgeo.png" group-title="Knowledge",Nat Geographic
-https://jago.tv21.me/live/rayga/3456/usee/natgeo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r7smfgp/Nat-geo-wild.png" group-title="Knowledge",Nat Geo Wild
-https://jago.tv21.me/live/rayga/3456/usee/natgeowild/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RPFPMK5/nat-Geo-pople.png" group-title="Knowledge",Nat Geo People
-https://jago.tv21.me/live/rayga/3456/usee/natgeopeople/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXJ5nsM/CGTN-doc.png" group-title="Knowledge", CGTN Documentary
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_small.png" group-title="Knowledge",Nat Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:0 tvg-logo="http://images.useetv.com/logo_natgeo_small.png" group-title="Knowledge", Nat Geographic(backup)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DtOImAa.png" group-title="Knowledge",Nat Geo Wild
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DtOImAa.png" group-title="Knowledge",Nat Geo Wild(backup)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_small.png" group-title="Knowledge",Nat Geo People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_small.png" group-title="Knowledge",Nat Geo People(backup)
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", Discovery Chanel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/28Fuzwz.png" group-title="Knowledge",History
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOCBrki.png" group-title="Knowledge",Animal Planet
+#http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_small1.png" group-title="Knowledge", CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5YrnGbs/Fashion-tv.png" group-title="Knowledge", Fashion TV Teens
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="Knowledge", Fashion TV Films
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5YrnGbs/Fashion-tv.png" group-title="Knowledge", Fashion TV Films
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="Knowledge", Fashion TV Teens
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5YrnGbs/Fashion-tv.png" group-title="Knowledge", Fashion TV Midnight
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="Knowledge", Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 
 #Sports
@@ -242,14 +245,11 @@ https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G0yDpr7/Egg-Network.png" group-title="Sports",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
-https://jago.tv21.me/live/rayga/3456/usee/foxsport1/index.m3u8
-#https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
-https://jago.tv21.me/live/rayga/3456/usee/foxsport2/index.m3u8
-#https://www.livedoomovie.com/02_FoxSport2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_FoxSport2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
-https://jago.tv21.me/live/rayga/3456/usee/foxsport3/index.m3u8
-#https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85K8RLS/Real-Madrid.png" group-title="Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7r7V3zg/Champions-tv-1.png" group-title="Sports", Champions tv 1
@@ -271,15 +271,15 @@ https://dl.dropbox.com/s/omttlx53wpraf77/Bein1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2 ID
 https://dl.dropbox.com/s/piieteu6mq49rp3/Bein2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
-#https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
-#https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBKH8rt/bein-sport-extra.png" group-title="Sports", BeinSport Xtra
 #https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 1
-#https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 2
-#https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
