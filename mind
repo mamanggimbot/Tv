@@ -164,8 +164,9 @@ https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJT
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MjI4MjgzM319fV19&Signature=m~cQr0nbtlomNQfFdTCT0DjdwYePvrRSbj7ReztnzdHVWUlbQCCQ6tK~Jl7zuqMhI10d8PdXDNXpDm0-1m3m80O0DYalPuikb4-hX56z9I9Xw9z1cvXCLunsv3sLndFasnBAgEHhBIsdiYNNrCuD33dKgz9mNcdU6MQTnmsueG8rvQv2G1jah~eYcfTFQxM1Es~fVgD9wqaGIlE~kUbyHjHU~ZWmIqq0CYZzhD7blBhs2HGQyNxrmor8LuIZc7WY~yPe6hFk8~vqO35EX3m4WjWXHpnwNsrnsZ9GvTzpRNBgffDv~FKZoCI4OzXv6OHE-a5ZPtk~9Zby0Fi7kRDRjA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYb1c5V/TVN.png" group-title="Movies", TvN
-https://anevia115.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
+https://anevia114.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3SPBFc0/Tvn-Movies.png" group-title="Movies", TvN movies
+https://anevia114.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KX8PLk/sony-one.png" group-title="Movies", Sony One
 https://anevia114.mncnow.id/live/eds/SetOne/sa_hls/SetOne-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8mxRjF/Celestial.png" group-title="Movies", Celestial Movies
