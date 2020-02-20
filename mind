@@ -246,9 +246,9 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #Sports
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bF3vTPb/super-soccer.png" group-title="Sports", Soccer Channel 1
-https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+https://anevia114.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bF3vTPb/super-soccer.png" group-title="Sports", Soccer Channel 2
-https://anevia115.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+https://anevia114.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="Sports", Liga Indonesia 2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G0yDpr7/Egg-Network.png" group-title="Sports",Egg Network
@@ -264,6 +264,10 @@ https://anevia114.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6bSmKCL/fight-sport.png" group-title="Sports", Fight Sports
 https://anevia115.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
+https://doofree88.com/streaming/epl-bein1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
+https://doofree88.com/streaming/epl-bein2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7r7V3zg/Champions-tv-1.png" group-title="Sports", Champions tv 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GTxPW1M/champions-tv-2.png" group-title="Sports", Champions tv 2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports", Sony Six
@@ -276,12 +280,6 @@ https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
-https://doofree88.com/streaming/epl-bein1_720/index.m3u8
-#https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
-https://doofree88.com/streaming/epl-bein2_720/index.m3u8
-#https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBKH8rt/bein-sport-extra.png" group-title="Sports", BeinSport Xtra
 #https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 1
