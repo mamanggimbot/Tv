@@ -88,7 +88,7 @@ http://119.82.224.75:1935/live/ahsantv/player.m3u8
 #Kids
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nk31YGc/babytv.png" group-title="Kids", Baby tv
-https://anevia115.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+https://anevia114.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw462Ph/duck-tv.png" group-title="Kids", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
@@ -97,21 +97,22 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 https://dl.dropbox.com/s/9b9z5db065tqods/DreamWork.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cJhwxL8/Miaomi.png" group-title="Kids",Miao Mi
 https://anevia114.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi-avc1_1000000=8-mp4a_98800_eng=6.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LNbGShR/cartoonnetwork.png" group-title="Kids",Cartoon Network
+https://anevia114.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Kq23Lvk/Disney-CHannel.png" group-title="Kids",Disney Channel
+https://anevia114.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxzBCsv/horee.png" group-title="Kids", Horee
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mXdGk18/boomerang.png" group-title="Kids",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+https://anevia114.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxBBLpX/nickjr.png" group-title="Kids",  Nick Jr
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+https://anevia114.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sjPpd5c/Nickelodeon.png" group-title="Kids", Nickelodeon
-#EXTINF:0 tvg-logo="https://i.ibb.co/LNbGShR/cartoonnetwork.png" group-title="Kids",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-#EXTINF:0 tvg-logo="https://i.ibb.co/Kq23Lvk/Disney-CHannel.png" group-title="Kids",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+https://anevia114.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2BLvs1/babyfirst.png" group-title="Kids",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQxY5nL/animax.png" group-title="Kids",Animax
-https://anevia115.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+https://anevia114.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K21P7zY/Aniplus.png" group-title="Kids",Aniplus
 https://dl.dropbox.com/s/mqgqpnbbhcmnraj/Aniplus.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
