@@ -101,10 +101,10 @@ https://anevia114.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi-avc1_1000000=8-mp4a_98
 https://anevia114.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Kq23Lvk/Disney-CHannel.png" group-title="Kids",Disney Channel
 https://anevia114.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxzBCsv/horee.png" group-title="Kids", Horee
-https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mXdGk18/boomerang.png" group-title="Kids",Boomerang
 https://anevia114.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxzBCsv/horee.png" group-title="Kids", Horee
+https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxBBLpX/nickjr.png" group-title="Kids",  Nick Jr
 https://anevia114.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sjPpd5c/Nickelodeon.png" group-title="Kids", Nickelodeon
