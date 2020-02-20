@@ -32,7 +32,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582229465~acl=/hls-p/ingest_205_*
 #https://anevia114.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 #https://dl.dropbox.com/s/j4wamzkepl84wk0/Indosiar2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
-http://id2.indostreamingtv.com/live/antv/index.m3u8.
+https://etslive-2-vidio-com.akamaized.net/exp=1582230011~acl=/hls-p/ingest_782_*/*~hmac=d55734dfc0fc7e8a9cfbc1bd56520085ca52eba05ead35952b1357aa01bc4f2c/hls-p/ingest_782_720p/index.m3u8
+#http://id2.indostreamingtv.com/live/antv/index.m3u8
 #https://anevia114.mncnow.id/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 #https://dl.dropbox.com/s/b8zh2xjmy0bpfej/Antv2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
