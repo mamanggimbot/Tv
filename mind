@@ -224,7 +224,7 @@ https://anevia114.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_10000
 https://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_2499968=10-mp4a_98800_eng=4.m3u8
 #http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtOImAa.png" group-title="Knowledge",Nat Geo Wild
-https://anevia114.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10mp4a_98800_eng=5.m3u8
+https://anevia114.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_small.png" group-title="Knowledge",Nat Geo People
 https://anevia114.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
