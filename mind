@@ -5,13 +5,13 @@ https://video.twimg.com/ext_tw_video/1213262070826852352/pu/pl/1264x720/ZUZDjbMk
 
 #Local
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Indonesia", MNC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV
 #https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169473~exp=9007200830910464~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=de134c99dd118bcb1cdf9ce6f79f4c8f97cc6c76d8a22ced11105b72fd70aadd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Indonesia", RCTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI
 #https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169415~exp=9007200830910406~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=8cdd858b44b0dfa231460199cac2870c22e8c1a295eb6fb5518eb790f7c30887
-#EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Indonesia", GLOBAL TV
+#EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Local", GLOBAL TV
 #https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV
@@ -199,28 +199,22 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OvK16mw.png" group-title="Knowledge", Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560046~exp=9007200830301037~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=63478ab3ea286fb358e2fdb6aceaf9bc19bb79dfcd13ecd3b820ca7eff0c19b7
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPS9GSt.png" group-title="Knowledge",Foodie Channel
-http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+#http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cdm9Jks/BBC-Earth.png" group-title="Knowledge", BBC Earth
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhDULwJ.png" group-title="Knowledge", Red Bull Tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TYjsWL7/Animal-Planet.png" group-title="Knowledge", Animal Planet
 https://anevia115.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_small.png" group-title="Knowledge",Nat Geographic
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_natgeo_small.png" group-title="Knowledge", Nat Geographic(backup)
+#EXTINF:0 tvg-logo="http://images.useetv.com/logo_natgeo_small.png" group-title="Knowledge", Nat Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtOImAa.png" group-title="Knowledge",Nat Geo Wild
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DtOImAa.png" group-title="Knowledge",Nat Geo Wild(backup)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_small.png" group-title="Knowledge",Nat Geo People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_small.png" group-title="Knowledge",Nat Geo People(backup)
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", Discovery Chanel
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/28Fuzwz.png" group-title="Knowledge",History
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dOCBrki.png" group-title="Knowledge",Animal Planet
 #http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_small1.png" group-title="Knowledge", CGTN Documentary
@@ -244,12 +238,6 @@ https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
 https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G0yDpr7/Egg-Network.png" group-title="Sports",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
-https://www.livedoomovie.com/02_FoxSport2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85K8RLS/Real-Madrid.png" group-title="Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7r7V3zg/Champions-tv-1.png" group-title="Sports", Champions tv 1
@@ -276,6 +264,12 @@ https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBKH8rt/bein-sport-extra.png" group-title="Sports", BeinSport Xtra
 #https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
+https://www.livedoomovie.com/02_FoxSport2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 2
