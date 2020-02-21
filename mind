@@ -6,14 +6,14 @@ https://video.twimg.com/ext_tw_video/1213262070826852352/pu/pl/1264x720/ZUZDjbMk
 #Local
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169473~exp=9007200830910464~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=de134c99dd118bcb1cdf9ce6f79f4c8f97cc6c76d8a22ced11105b72fd70aadd
+#https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169473~exp=9007200830910464~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=de134c99dd118bcb1cdf9ce6f79f4c8f97cc6c76d8a22ced11105b72fd70aadd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169415~exp=9007200830910406~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=8cdd858b44b0dfa231460199cac2870c22e8c1a295eb6fb5518eb790f7c30887
+#https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 #EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Local", GLOBAL TV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
+#https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NKyZS1J/Trans-7.png" group-title="Local", TRANS7
@@ -24,18 +24,14 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #https://dl.dropbox.com/s/7nsujica2t6rxen/NetTv2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582229443~acl=/hls-p/ingest_204_*/*~hmac=68f8b7de48870ec9b02ae8ebfdb968694eac258972aba7553f0f319f25c3fce8/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582294893~acl=/hls-p/ingest_204_*/*~hmac=fe86072b25344c0cc327d850391a88e641349e9d28220148ad3a2451e5df0b0f/hls-p/ingest_204_720p/index.m3u8
 #https://anevia114.mncnow.id/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=10-mp4a_98800_eng=5.m3u8
-#https://dl.dropbox.com/s/uzlw7i1cs8kxksm/SCTV2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1582229465~acl=/hls-p/ingest_205_*/*~hmac=c4c364e4d19292373dc974fc6e54e95a1eac3ad65a4289fbce7fd24025b7a9cb/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582294874~acl=/hls-p/ingest_205_*/*~hmac=293ebcd8efcf154344191cfb0fea766897f3c5f73e8f67f01d877b5860bdc1b9/hls-p/ingest_205_720p/index.m3u8
 #https://anevia114.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_98800_eng=5.m3u8
-#https://dl.dropbox.com/s/j4wamzkepl84wk0/Indosiar2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
-https://etslive-2-vidio-com.akamaized.net/exp=1582230011~acl=/hls-p/ingest_782_*/*~hmac=d55734dfc0fc7e8a9cfbc1bd56520085ca52eba05ead35952b1357aa01bc4f2c/hls-p/ingest_782_720p/index.m3u8
-#http://id2.indostreamingtv.com/live/antv/index.m3u8
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 #https://anevia114.mncnow.id/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_98800_eng=5.m3u8
-#https://dl.dropbox.com/s/b8zh2xjmy0bpfej/Antv2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
 https://anevia114.mncnow.id/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #https://dl.dropbox.com/s/urfi7dpxum860v8/TVOne.m3u8?dl=0
@@ -45,7 +41,7 @@ https://anevia114.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rd3B8kb/Berita-satu.png" group-title="Local",Berita Satu
 #http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSYZtTc/inewstv.png" group-title="Local", INews TV
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PQ7409J/CNN-indo.png" group-title="Local", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4W7szt/RTV.png" group-title="Local", RTV
