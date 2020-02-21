@@ -97,7 +97,8 @@ https://anevia114.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw462Ph/duck-tv.png" group-title="Kids", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+https://anevia114.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior-avc1_1000000=8-mp4a_98800_eng=6.m3u8
+#http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTCtZRX/Dream-Works.png" group-title="Kids",DreamWorks
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cJhwxL8/Miaomi.png" group-title="Kids",Miao Mi
 https://anevia114.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi-avc1_1000000=8-mp4a_98800_eng=6.m3u8
