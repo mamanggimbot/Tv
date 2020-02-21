@@ -310,12 +310,16 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 http://185.180.12.34:8080/ARENA5HR/index.m3u8?token=test
 #https://sport7.ws/lba/MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=/g7/ar5sport.m3u8?token=MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=&id=MzhlMDE2NWE0MDZjNDg0ZGQzMWU3N2FkYjU1MjA1NmM=&vip=1571042024&dip=ZjMxNTU0YWJhZTk0MWVjNTg3YmRlODNlMmE3NjQzYWM=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
 #EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-logo="https://i.ibb.co/vYQPzgN/ad-sport-1.png" group-title="Sports", Ad Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #http://adtv.ercdn.net:80/adsport1/adsport1.m3u8
 #EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-logo="https://i.ibb.co/hfbXWZc/ad-sport-2.png" group-title="Sports", Ad Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #http://adtv.ercdn.net/adsport2/adsport2.m3u8
 #EXTINF:-1 tvg-id="abudhabisports3.ae" tvg-logo="https://i.ibb.co/Fw0wr4s/ad-sport-3.png" group-title="Sports", Ad Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #https://tvae.ercdn.net/adsport3/adsport3.m3u8?v=856623187
 #EXTINF:-1 tvg-id="abudhabisports4.ae" tvg-logo="https://i.ibb.co/vwT8Cc4/ad-sport-4.png" group-title="Sports", Ad Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #https://tvae.ercdn.net/adsport4/adsport4.m3u8?v=839379210
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xfd5gqH/all-sport.png" group-title="Sports", All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
