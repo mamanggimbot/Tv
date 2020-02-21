@@ -24,13 +24,14 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #https://dl.dropbox.com/s/7nsujica2t6rxen/NetTv2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582294893~acl=/hls-p/ingest_204_*/*~hmac=fe86072b25344c0cc327d850391a88e641349e9d28220148ad3a2451e5df0b0f/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582316410~acl=/hls-p/ingest_204_*/*~hmac=9341b6a8c7a43655dda385c72fa77b919ce47bb116887acc9dcc91a4ad6599eb/hls-p/ingest_204_480p/index.m3u8
 #https://anevia114.mncnow.id/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1582294874~acl=/hls-p/ingest_205_*/*~hmac=293ebcd8efcf154344191cfb0fea766897f3c5f73e8f67f01d877b5860bdc1b9/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582316374~acl=/hls-p/ingest_205_*/*~hmac=3e71f3086373c56a568030cfe955df54f4306702d7c4e5fe8884249ccfdc9fe3/hls-p/ingest_205_480p/index.m3u8
 #https://anevia114.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
-http://id2.indostreamingtv.com/live/antv/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582316475~acl=/hls-p/ingest_782_*/*~hmac=6bbe99f18526f7a810e43871c45fac67835d6922635c19e311387178bd048319/hls-p/ingest_782_720p/index.m3u8
+#http://id2.indostreamingtv.com/live/antv/index.m3u8
 #https://anevia114.mncnow.id/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
 https://anevia114.mncnow.id/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_98800_eng=5.m3u8
