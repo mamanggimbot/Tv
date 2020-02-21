@@ -176,6 +176,8 @@ https://anevia114.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_en
 https://anevia114.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGSkBrn/Hits.png" group-title="Movies", Hits
 https://anevia114.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YRz6Nch/hits-movies.png" group-title="Movies", Hits Movies
+https://anevia114.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbnj3wQ/Thrill.png" group-title="Movies", Thrill
 https://anevia114.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #http://45.126.83.51/qwr9ew/s/s34/index.m3u8
