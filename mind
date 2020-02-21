@@ -42,8 +42,10 @@ https://anevia114.mncnow.id/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_9880
 https://anevia114.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #https://dl.dropbox.com/s/1dmro5w278wwb6r/Kompas2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rd3B8kb/Berita-satu.png" group-title="Local",Berita Satu
+https://anevia114.mncnow.id:443/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSYZtTc/inewstv.png" group-title="Local", INews TV
+https://linier.akamaized.net/live/eds/iNews/sa_hls/iNews.m3u8?hdnts=exp=1582305784~hmac=5c9a2d9637b5d6d7d81df91b4e1e833df7a769134562d6665dead8ebb7f0f195
 #https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PQ7409J/CNN-indo.png" group-title="Local", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
