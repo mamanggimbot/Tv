@@ -145,6 +145,8 @@ https://epl-inews.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV-avc1_1000000=8-mp4a_9880
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t4PCzg4/zee-cinema.png" group-title="Movies", Zee Cinema
 https://epl-inews.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsVjHC0/Citra-Drama.png" group-title="Movies", Citra Drama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ck3vKhr/E-tv.png" group-title="Movies", E!Tv
+https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwTtmn0/fmn.png" group-title="Movies", FMN
 https://epl-inews.mncnow.id/live/eds/FMN/sa_hls/FMN-avc1_1000000=8-mp4a_98800_eng=6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFX5h2r/FX-movie.png" group-title="Movies", FX
