@@ -52,6 +52,8 @@ https://epl-inews.mncnow.id:443/live/eds/RTV/sa_hls/RTV-avc1_1000000=8-mp4a_9880
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2s2qKQj/tvri.png" group-title="Local", TVRI
 http://rr2.dens.tv/s/s11/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7yTH8mv/mytv.png" group-title="LOKAL", Mytv
+https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ggFCkWn/DW-english.png" group-title="Local", DW English
 https://livetvhooq.akamaized.net/e97d916eaf2a4c888a0a43cb633c54e3/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1575560426~exp=9007200830301417~acl=/e97d916eaf2a4c888a0a43cb633c54e3/*/profile_0/chunklist.m3u8*~hmac=587ebf4832a5ed23a09f2e7d851d945ae20655c988eda38237f6b6e09e146de6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQQvfFP/aljazeera.png" group-title="Local", Al Jazeera English
@@ -120,6 +122,7 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQxY5nL/animax.png" group-title="Kids",Animax
 https://epl-inews.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K21P7zY/Aniplus.png" group-title="Kids",Aniplus
+http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
@@ -129,6 +132,10 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2htjs2L/Zee-Bioskop.png" group-title="Movies", Zee Bioskop
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr7bpTX/Zee-tv.png" group-title="Movies", Zee Tv
+https://epl-inews.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV-avc1_1000000=8-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4PCzg4/zee-cinema.png" group-title="Movies", Zee Cinema
+https://epl-inews.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsVjHC0/Citra-Drama.png" group-title="Movies", Citra Drama
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFX5h2r/FX-movie.png" group-title="Movies", FX
 https://epl-inews.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
@@ -170,13 +177,17 @@ https://epl-inews.mncnow.id/live/eds/SetOne/sa_hls/SetOne-avc1_2499968=12-mp4a_9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8mxRjF/Celestial.png" group-title="Movies", Celestial Movies
 https://epl-inews.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #http://45.126.83.51/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5S5WfK/ccm.png" group-title="Movies", celestial Classic Movies
+#https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88q23P7/star-chinese.png" group-title="Movies", Star Chinese Movies
+https://epl-inews.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PrC72Lw/SCM-legend.png" group-title="Movies", SCM Legend
+https://epl-inews.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bf5TRP/kix.png" group-title="Movies", Kix
 https://epl-inews.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W39RR2t/Waku-Waku-Japan.png" group-title="Movies", Waku-Waku Japan
-https://epl-inews.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGSkBrn/Hits.png" group-title="Movies", Hits
 https://epl-inews.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YRz6Nch/hits-movies.png" group-title="Movies", Hits Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG1gR5B/hits-movies.png" group-title="Movies", Hits Movies
 https://epl-inews.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbnj3wQ/Thrill.png" group-title="Movies", Thrill
 https://epl-inews.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
@@ -235,6 +246,8 @@ https://epl-inews.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-
 https://epl-inews.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/28Fuzwz.png" group-title="Knowledge",History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W39RR2t/Waku-Waku-Japan.png" group-title="Knowledge", Waku-Waku Japan
+https://epl-inews.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_small1.png" group-title="Knowledge", CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="Knowledge", Fashion TV Films
