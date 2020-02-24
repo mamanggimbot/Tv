@@ -433,7 +433,8 @@ https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G5s05Jy/Asterix-magic-potion.jpg" group-title="VOD", Asterix: The Secret of the Magic Potion(2018)
 https://cdn.clonefile.icu/drive/index.php?id=41IpLKLI0NntH%2FJngglgMApGgMjmgZzjpUcCRuyBP5noKWK4V8MO%2FteNVF49vg34IKWy02snXkeSKRobIbK3XTjXZdhGIZ%2BB%2BywV5gUyqo7P0anLUitmN%2FEZ161D8gJkg%3D&ref=&res=720
 
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tv/vision.png" group-title="Malaysia",Vision Prime
+https://epl-inews.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tv/tv1.png" group-title="Malaysia",TV1
 http://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tv/tv2.png" group-title="Malaysia",TV2
