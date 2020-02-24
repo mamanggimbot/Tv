@@ -269,9 +269,9 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 
 #Sports
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bF3vTPb/super-soccer.png" group-title="Sports", Soccer Channel 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8jsJzGf/MNC-sport.png" group-title="Sports", MNC Sports
 https://epl-inews.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bF3vTPb/super-soccer.png" group-title="Sports", Soccer Channel 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wsq9hpn/mnc-sport-2.png" group-title="Sports", MNC Sports 2
 https://epl-inews.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="Sports", Liga Indonesia 2
@@ -304,7 +304,7 @@ https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony ESPN
+#EXTINF:0 tvg-logo="https://i.ibb.co/Hxh4H1V/Sony-espn.png" group-title="Sports",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBKH8rt/bein-sport-extra.png" group-title="Sports", BeinSport Xtra
 #https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
