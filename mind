@@ -150,9 +150,9 @@ https://epl-inews.mncnow.id/live/eds/FMN/sa_hls/FMN-avc1_1000000=8-mp4a_98800_en
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFX5h2r/FX-movie.png" group-title="Movies", FX
 https://epl-inews.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
-https://epl-inews.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
+https://anevia114.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
-https://epl-inews.mncnow.id/live/eds/AXN/sa_hls/AXN-avc1_2499968=9-mp4a_98800_eng=5.m3u8
+https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN-avc1_2499968=9-mp4a_98800_eng=5.m3u8
 #http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZmTMML/Crime-investigation.png" group-title="Movies", Crime Investigation
 https://epl-inews.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
@@ -190,9 +190,9 @@ https://epl-inews.mncnow.id/live/eds/SetOne/sa_hls/SetOne-avc1_2499968=12-mp4a_9
 http://streamku.live:8888/live/YvwPz6hzUP/zKNJFAHOiy/536.ts
 #http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8mxRjF/Celestial.png" group-title="Movies", Celestial Movies
-https://epl-inews.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#https://epl-inews.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #http://45.126.83.51/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y5S5WfK/ccm.png" group-title="Movies", celestial Classic Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5S5WfK/ccm.png" group-title="Movies", Celestial Classic Movies
 #https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/88q23P7/star-chinese.png" group-title="Movies", Star Chinese Movies
 https://epl-inews.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
@@ -245,10 +245,8 @@ https://epl-inews.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_2499968
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnKKZZy/tlc.png" group-title="Knowledge", TLC
 https://epl-inews.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nskzxPx/Smithsonian-CH.png" group-title="Knowledge", Smitshonian Channel
-http://streamku.live:8888/live/YvwPz6hzUP/zKNJFAHOiy/483.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPS9GSt.png" group-title="Knowledge",Foodie Channel
-http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+#http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SrzQFzm/Asian-food.png" group-title="Knowledge",Asian Food Channel(AFC)
 https://epl-inews.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rbgmLTq/BBC-Earth.png" group-title="Knowledge", BBC Earth
