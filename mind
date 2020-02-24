@@ -237,7 +237,7 @@ https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1dsT3X2/HGTV.png" group-title="Knowledge", HGTV
 https://epl-inews.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6yGmD0L/home-living.png" group-title="Knowledge", Home And Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j5g2dZD/Lifetime.png" group-title="Knowledge", Lifetime
 https://epl-inews.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cb5VBkd/vision-prime.png" group-title="Knowledge", Vision Prime
