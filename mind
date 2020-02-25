@@ -165,7 +165,7 @@ https://epl-inews.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigatio
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
 #https://epl-inews.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsDtC6J/fox-crime.png" group-title="Movies", FOX Crime
-https://epl-inews.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#https://epl-inews.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYjxthG/Fox-Life.png" group-title="Movies", FOX Life
 https://epl-inews.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies
@@ -193,8 +193,7 @@ https://epl-inews.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KX8PLk/sony-one.png" group-title="Movies", Sony One
 https://epl-inews.mncnow.id/live/eds/SetOne/sa_hls/SetOne-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J7g3HDR/Sony-Gem.png" group-title="Movies", Sony Gem
-http://streamku.live:8888/live/YvwPz6hzUP/zKNJFAHOiy/536.ts
-#http://rr.dens.tv/h/h19/index.m3u8
+http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8mxRjF/Celestial.png" group-title="Movies", Celestial Movies
 #https://epl-inews.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #http://45.126.83.51/qwr9ew/s/s33/index.m3u8
@@ -298,11 +297,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85K8RLS/Real-Madrid.png" group-title="Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
-https://epl-inews.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
+#https://epl-inews.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
+#https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 https://epl-inews.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
-https://epl-inews.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
+#https://epl-inews.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6bSmKCL/fight-sport.png" group-title="Sports", Fight Sports
 https://epl-inews.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #http://210.210.155.35/uq2663/h/h05/index.m3u8
