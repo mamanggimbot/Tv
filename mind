@@ -43,7 +43,8 @@ https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybPLunRmFxa4Dqwz4QZ
 #http://45.126.83.51/qwr9ew/s/s02/index2.m3u8
 #https://epl-inews.mncnow.id/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One (2)
-http://3.0.93.95:25461/LOCAL/ID/11
+https://etslive-2-vidio-com.akamaized.net/exp=1582661250~acl=/hls-p/ingest_783_*/*~hmac=364591aa40b7834712d0c760af8dedbb2f48875d85ff0e6c7d882a983147ac45/hls-p/ingest_783_720p/index.m3u8
+#http://3.0.93.95:25461/LOCAL/ID/11
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bz6PgXz/Kompas-tv-SD.png" group-title="Local", Kompas TV
 https://epl-inews.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #https://dl.dropbox.com/s/1dmro5w278wwb6r/Kompas2.m3u8?dl=0
