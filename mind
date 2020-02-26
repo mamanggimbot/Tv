@@ -24,7 +24,8 @@ https://epl-inews.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbYwCD6/NETtv.png" group-title="Local", Net TV (1)
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbYwCD6/NETtv.png" group-title="Local", Net TV (2)
-http://3.0.93.95:25461/LOCAL/ID/48
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582713090/ei/ovRVXpeCHfyqz7sP_uqD6A8/ip/125.160.114.251/id/F2oDhhbDXIg.38/itag/92/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D133/hls_chunk_host/r6---sn-npoe7n7s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1620/mip/178.128.57.177/mm/44/mn/sn-npoe7n7s/ms/lva/mv/m/mvi/5/pl/21/dover/11/keepalive/yes/fexp/23842630,23878761/mt/1582691782/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ADKhkGMwRQIhAPWEFs5pMWk9BVIlEHk6L4BCIhsP7HXoU5mwQR-VYRe9AiBPa3g-dvXjBq3_rX_pRkNxl76_9a7IJHgIceH2T5qpVg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mip,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRQIhAP-aTRfk5m--RL_a2Zi7xpb8bjGjunRh5pcTUIG5yQD3AiAPuEIBiN3OCjoV43xpR5TJMbIy9up9SCQ-5j1coFM0pA%3D%3D/playlist/index.m3u8
+#http://3.0.93.95:25461/LOCAL/ID/48
 #http://id2.indostreamingtv.com/live/nettv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
