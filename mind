@@ -19,8 +19,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NKyZS1J/Trans-7.png" group-title="Local", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Zr0qym/Metro-tv.png" group-title="Local", Metro TV
-https://epl-inews.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#https://epl-inews.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbYwCD6/NETtv.png" group-title="Local", Net TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #http://id2.indostreamingtv.com/live/nettv/index.m3u8
