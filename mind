@@ -302,7 +302,9 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wsq9hpn/mnc-sport-2.png" group-title="Sports", MNC Sports 2
 #https://epl-inews.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 1
+https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="Sports", Liga Indonesia 2
+https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports", Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony Ten 1
@@ -321,11 +323,18 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
-https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
+https://dl.dropbox.com/s/9g2cyhtu9ztxc0k/Live2.m3u8?dl=0
+#https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
-https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
+https://dl.dropbox.com/s/iagv1nl6xgc67jn/Live3.m3u8?dl=0
+#https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QJvtYKz/Setanta-sports.png" group-title="Sports", Setanta Sports 1
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QJvtYKz/Setanta-sports.png" group-title="Sports", Setanta Sports 2
+https://sport7.ws/lba/ZDI0NDcxY2JmMDVhMTE4M2M5ODNjNjkwN2I2NjQ4NWQ=/g6/seteurasiaplus.m3u8?token=ZDI0NDcxY2JmMDVhMTE4M2M5ODNjNjkwN2I2NjQ4NWQ=&id=MDAwMThlODI3MDVjMmY2Yjc0ODcxOWVmYzkzOGY5YTM=&vip=1582451229&dip=YjUyZGRlN2JiYTYyODczNmQyOGYwMDFkYjMyYmIyYzk=&pip=MjFhM2RiNzFkNTk1ZGE0ODkwYWM5NTA0NTY4MDc2YWU=&hip=OGI1MTFlODYzODAyZGQ3MzFmNjRkNGIyMmFiNmIzYmI=
+#http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6bSmKCL/fight-sport.png" group-title="Sports", Fight Sports
 #https://epl-inews.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 http://210.210.155.35/uq2663/h/h05/index.m3u8
@@ -387,10 +396,6 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist_b2000000.m3u8?v=609289825
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQB06d9/olympic-channel.png" group-title="Sports", Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/QJvtYKz/Setanta-sports.png" group-title="Sports", Setanta Sports 1
-http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/QJvtYKz/Setanta-sports.png" group-title="Sports", Setanta Sports 2
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gc5TQ2f/True-Sport-1.png" group-title="Sports",True Sport 1
 https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lp7ywLZ/True-Sport-2.png" group-title="Sports",True Sport 2
