@@ -25,7 +25,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #http://id2.indostreamingtv.com/live/nettv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbYwCD6/NETtv.png" group-title="Local", Net TV
-http://210.210.155.35/session/eb69559e-0197-11ea-a0e0-b82a72d63267/qwr9ew/s/s08/02.m3u8
+http://210.210.155.35/session/eb69559e-0197-11ea-a0e0-b82a72d63267/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=10-mp4a_98800_eng=5.m3u8
@@ -38,6 +38,7 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
 https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybPLunRmFxa4Dqwz4QZxl2TI)/dm/3/x619221/s/live-2.m3u8
+#http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #http://45.126.83.51/qwr9ew/s/s02/index2.m3u8
 #https://epl-inews.mncnow.id/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #http://3.0.93.95:25461/LOCAL/ID/11
@@ -336,8 +337,9 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 https://sport7.ws/lba/ZDI0NDcxY2JmMDVhMTE4M2M5ODNjNjkwN2I2NjQ4NWQ=/g6/seteurasiaplus.m3u8?token=ZDI0NDcxY2JmMDVhMTE4M2M5ODNjNjkwN2I2NjQ4NWQ=&id=MDAwMThlODI3MDVjMmY2Yjc0ODcxOWVmYzkzOGY5YTM=&vip=1582451229&dip=YjUyZGRlN2JiYTYyODczNmQyOGYwMDFkYjMyYmIyYzk=&pip=MjFhM2RiNzFkNTk1ZGE0ODkwYWM5NTA0NTY4MDc2YWU=&hip=OGI1MTFlODYzODAyZGQ3MzFmNjRkNGIyMmFiNmIzYmI=
 #http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6bSmKCL/fight-sport.png" group-title="Sports", Fight Sports
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #https://epl-inews.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-http://210.210.155.35/uq2663/h/h05/index.m3u8
+#http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Q5KwXM/NBA-tv.png" group-title="Sports", NBA Tv
 https://www.doofree88.com/streaming/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
