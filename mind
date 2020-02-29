@@ -153,6 +153,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ck3vKhr/E-tv.png" group-title="Movies", E!Tv
 https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
+#https://epl-inews.mncnow.id/live/eds/AXN/sa_hls/AXN-avc1_2499968=9-mp4a_98800_eng=5.m3u8
+http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MzE0Njg0M319fV19&Signature=K-31IWd8pU3o4Z8Y3lN0-MBEgti4ZU66zds2ensFicmMnHAeKPKCdiIpl8CWngmLRLhkKjA8avBCbdPqE5KpqgGHfUoNpeGEFIMAuiLjvpKlunrb0I-FJ5LFzsaVzCgfCA-BxgZeeOF6Ghu1tOJM0QVzI0pP757sRKdkRWlAqhOYA9j44V2GODSXiyS5X~1jsR4~Y91t8hyYThqXYNwAuE528fiUM5WkUqOgVufIEKRPIFk1DeDRk5Th1oPafBXZekrqqDelf5M~AsQWwkdBVPdvJZ~vERN72Bn-PZ370WD-bVHSA5h75a3pIY4rVldIGMxX6GSsXJ-qu-FTyA2bNA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
@@ -178,9 +181,6 @@ https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJT
 #https://epl-inews.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
 #https://epl-inews.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
-#https://epl-inews.mncnow.id/live/eds/AXN/sa_hls/AXN-avc1_2499968=9-mp4a_98800_eng=5.m3u8
-http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZmTMML/Crime-investigation.png" group-title="Movies", Crime Investigation
 #https://epl-inews.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
