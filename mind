@@ -107,14 +107,16 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #https://epl-inews.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior-avc1_1000000=8-mp4a_98800_eng=6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw462Ph/duck-tv.png" group-title="Kids", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mXdGk18/boomerang.png" group-title="Kids",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gmwYNNW/Miaomi.png" group-title="Kids",Miao Mi
 https://www.doofree88.com/streaming/sd-miaomi_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTCtZRX/Dream-Works.png" group-title="Kids",DreamWorks
+https://dl.dropbox.com/s/o6xd9gjbhdwwtyr/Dreamwork.m3u8?dl=0
 #https://epl-inews.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi-avc1_1000000=8-mp4a_98800_eng=6.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNbGShR/cartoonnetwork.png" group-title="Kids",Cartoon Network
 https://www.doofree88.com/streaming/sd-cartoonnetwork_480/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mXdGk18/boomerang.png" group-title="Kids",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxBBLpX/nickjr.png" group-title="Kids",  Nick Jr
 https://www.doofree88.com/streaming/sd-nickjr_480/index.m3u8
@@ -131,7 +133,6 @@ http://210.210.155.35/dr9445/h/h144/index2.m3u8
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PTCtZRX/Dream-Works.png" group-title="Kids",DreamWorks
 #EXTINF:0 tvg-logo="https://i.ibb.co/Kq23Lvk/Disney-CHannel.png" group-title="Kids",Disney Channel
 https://www.doofree88.com/streaming/sd-disney_480/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
@@ -151,6 +152,8 @@ https://www.doofree88.com/streaming/sd-disney_480/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2htjs2L/Zee-Bioskop.png" group-title="Movies", Zee Bioskop
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58dvXvh/Flik.png" group-title="Movies", FLIK
+https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ck3vKhr/E-tv.png" group-title="Movies", E!Tv
 https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
