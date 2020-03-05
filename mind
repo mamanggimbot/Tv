@@ -330,14 +330,16 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85K8RLS/Real-Madrid.png" group-title="Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
-https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
+#https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
-https://dl.dropbox.com/s/9g2cyhtu9ztxc0k/Live2.m3u8?dl=0
+https://sport7.ws/lba/ZTAzM2Q4ODRlMDkzNjk1OTBlNmEzYWRhNjNhNjk5NzU=/g1/sk2serbia.m3u8?token=ZTAzM2Q4ODRlMDkzNjk1OTBlNmEzYWRhNjNhNjk5NzU=&id=NGMyODkxMzZlOTQwNDFlZDQ0OWYwYjZlY2ZkMzcyNTg=&vip=1582800597&dip=ZjQ0MDRlYjM0MjQ4OWJmNzVmY2NmZWU1ZTRiNGNjYTU=&pip=ZjY2ZDY0ZDU1ZjAxNjBlMTJlN2QwMTZiOGJiMjhjNTE=&hip=N2EwMTZjYmNjODZhNzhmMDc5YTMzODM3OTY5NDYyMWQ=
+#https://dl.dropbox.com/s/9g2cyhtu9ztxc0k/Live2.m3u8?dl=0
 #https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
-https://dl.dropbox.com/s/iagv1nl6xgc67jn/Live3.m3u8?dl=0
+https://sport7.ws/lba/MTVkY2E2Nzg4NTYyMjMyMDBmOGU2OWIyZDkwZDE5NGI=/g1/sport2port.m3u8?token=MTVkY2E2Nzg4NTYyMjMyMDBmOGU2OWIyZDkwZDE5NGI=&id=ZmUxYzdlMjU3MTkzMDA5MWJiZGZmODdjOWE1ZDAzMWQ=&vip=1582800671&dip=MmQyNzQyZTY3NjA0ZDBkNjFjNTJjOTkyMmMwZGJmZGM=&pip=ZjY2ZDY0ZDU1ZjAxNjBlMTJlN2QwMTZiOGJiMjhjNTE=&hip=N2EwMTZjYmNjODZhNzhmMDc5YTMzODM3OTY5NDYyMWQ=
+#https://dl.dropbox.com/s/iagv1nl6xgc67jn/Live3.m3u8?dl=0
 #https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QJvtYKz/Setanta-sports.png" group-title="Sports", Setanta Sports 1
@@ -352,18 +354,18 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Q5KwXM/NBA-tv.png" group-title="Sports", NBA Tv
 https://www.doofree88.com/streaming/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
-https://doofree88.com/streaming/epl-bein1_720/index.m3u8
+#https://doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
-https://doofree88.com/streaming/epl-bein2_720/index.m3u8
+#https://doofree88.com/streaming/epl-bein2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7r7V3zg/Champions-tv-1.png" group-title="Sports", Champions tv 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GTxPW1M/champions-tv-2.png" group-title="Sports", Champions tv 2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBKH8rt/bein-sport-extra.png" group-title="Sports", BeinSport Xtra
 #https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 1
-https://doofree88.com/streaming/epl-x1_720/index.m3u8
+#https://doofree88.com/streaming/epl-x1_720/index.m3u8
 #https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 2
-https://doofree88.com/streaming/epl-x2_720/index.m3u8
+#https://doofree88.com/streaming/epl-x2_720/index.m3u8
 #https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
