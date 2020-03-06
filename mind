@@ -163,6 +163,9 @@ https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
 #https://epl-inews.mncnow.id/live/eds/AXN/sa_hls/AXN-avc1_2499968=9-mp4a_98800_eng=5.m3u8
 http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
+https://dl.dropbox.com/s/t9y2r556gnx2d1y/ETV%20Entertainment.m3u8?dl=0
+#https://epl-inews.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
@@ -217,8 +220,6 @@ https://delivery.macan.live/stream/lifetime/index.m3u8?token=fOsKlBtm&amp;v=2020
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwTtmn0/fmn.png" group-title="Movies", FMN
 #https://epl-inews.mncnow.id/live/eds/FMN/sa_hls/FMN-avc1_1000000=8-mp4a_98800_eng=6.m3u8
 #https://epl-inews.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
-#https://epl-inews.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYb1c5V/TVN.png" group-title="Movies", TvN
 #https://epl-inews.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3SPBFc0/Tvn-Movies.png" group-title="Movies", TvN movies
@@ -330,6 +331,7 @@ https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #https://epl-inews.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wsq9hpn/mnc-sport-2.png" group-title="Sports", MNC Sports 2
 #https://epl-inews.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 1
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="Sports", Liga Indonesia 2
