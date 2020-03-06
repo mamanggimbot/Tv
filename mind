@@ -310,6 +310,7 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A2088
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1dsT3X2/HGTV.png" group-title="Knowledge", HGTV
 #https://epl-inews.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cb5VBkd/vision-prime.png" group-title="Knowledge", Vision Prime
+https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #https://epl-inews.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnKKZZy/tlc.png" group-title="Knowledge", TLC
 #https://epl-inews.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-mp4a_98800_eng=3.m3u8
