@@ -390,7 +390,9 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
 #https://doofree88.com/streaming/epl-bein2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7r7V3zg/Champions-tv-1.png" group-title="Sports", Champions tv 1
+https://etslive-2-vidio-com.akamaized.net/exp=1583521144~acl=/hls-b/ingest_geo_6685_*/*~hmac=2c0ad0c6b9b63bf7d284a6c176927b9df13e5326b9bec96c38cae69d09d88d60/hls-b/ingest_geo_6685_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GTxPW1M/champions-tv-2.png" group-title="Sports", Champions tv 2
+https://etslive-2-vidio-com.akamaized.net/exp=1583521144~acl=/hls-b/ingest_geo_6686_*/*~hmac=79586963c7dce249b5e3286459a4a2075c9ba39971bcac87dbe78ab4ff51dbdd/hls-b/ingest_geo_6686_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBKH8rt/bein-sport-extra.png" group-title="Sports", BeinSport Xtra
 #https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
 
