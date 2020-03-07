@@ -209,6 +209,10 @@ https://delivery.macan.live/stream/id_tvn/index.m3u8?token=fOsKlBtm&amp;v=202002
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3SPBFc0/Tvn-Movies.png" group-title="Movies", TvN movies
 https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=fOsKlBtm&amp;v=20200202
 #https://epl-inews.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KX8PLk/sony-one.png" group-title="Movies", Sony One
+https://delivery.macan.live/stream/sonyone/index.m3u8?token=fOsKlBtm&amp;v=20200202
+#http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+#https://epl-inews.mncnow.id/live/eds/SetOne/sa_hls/SetOne-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFX5h2r/FX-movie.png" group-title="Movies", FX
 https://delivery.macan.live/stream/id_fx/index.m3u8?token=fOsKlBtm&amp;v=20200202
 #https://epl-inews.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
@@ -218,20 +222,17 @@ https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=fOsKlBtm&
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j5g2dZD/Lifetime.png" group-title="Movies", Lifetime
 https://delivery.macan.live/stream/lifetime/index.m3u8?token=fOsKlBtm&amp;v=20200202
 #https://epl-inews.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T8mxRjF/Celestial.png" group-title="Movies", Celestial Movies
+https://delivery.macan.live/stream/cm/index.m3u8?token=fOsKlBtm&amp;v=20200202
+#http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
+#https://epl-inews.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5S5WfK/ccm.png" group-title="Movies", Celestial Classic Movies
 https://delivery.macan.live/stream/ccm/index.m3u8?token=fOsKlBtm&amp;v=20200202
 #https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KX8PLk/sony-one.png" group-title="Movies", Sony One
-https://delivery.macan.live/stream/sonyone/index.m3u8?token=fOsKlBtm&amp;v=20200202
-#http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
-#https://epl-inews.mncnow.id/live/eds/SetOne/sa_hls/SetOne-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J7g3HDR/Sony-Gem.png" group-title="Movies", Sony Gem
 http://rr.dens.tv/h/h19/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T8mxRjF/Celestial.png" group-title="Movies", Celestial Movies
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
-#https://epl-inews.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/88q23P7/star-chinese.png" group-title="Movies", Star Chinese Movies
 #https://epl-inews.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PrC72Lw/SCM-legend.png" group-title="Movies", SCM Legend
