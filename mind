@@ -165,7 +165,6 @@ https://delivery.macan.live/stream/id_axn/index.m3u8?token=fOsKlBtm&amp;v=202002
 #https://epl-inews.mncnow.id/live/eds/AXN/sa_hls/AXN-avc1_2499968=9-mp4a_98800_eng=5.m3u8
 #http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
-https://delivery.macan.live/stream/warnertv/index.m3u8?token=fOsKlBtm&amp;v=20200202
 #https://epl-inews.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
@@ -204,10 +203,8 @@ https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=fOsKlBtm&
 #http://sync1b.iptv.bingo/live/46446?u=1889044&s=296d3be4ce4ccc81c4d978055925c4c0a76984638eb790ed6b4124bf563f532e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYb1c5V/TVN.png" group-title="Movies", TvN
-https://delivery.macan.live/stream/id_tvn/index.m3u8?token=fOsKlBtm&amp;v=20200202
 #https://epl-inews.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3SPBFc0/Tvn-Movies.png" group-title="Movies", TvN movies
-https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=fOsKlBtm&amp;v=20200202
 #https://epl-inews.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KX8PLk/sony-one.png" group-title="Movies", Sony One
 https://delivery.macan.live/stream/sonyone/index.m3u8?token=fOsKlBtm&amp;v=20200202
