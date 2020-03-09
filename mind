@@ -35,9 +35,9 @@ https://delivery.macan.live/stream/id_sctv/index.m3u8?token=k7b3i8T7&amp;v=20200
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
-#https://delivery.macan.live/stream/id_antv/index.m3u8?token=k7b3i8T7&amp;v=20200202
+https://delivery.macan.live/stream/id_antv/index.m3u8?token=k7b3i8T7&amp;v=20200202
 #http://210.210.155.35/session/cf48f862-550f-11ea-b06b-b82a72d63267/qwr9ew/s/s102/01.m3u8
-http://id2.indostreamingtv.com/live/antv/index.m3u8
+#http://id2.indostreamingtv.com/live/antv/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
