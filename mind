@@ -211,7 +211,7 @@ https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=k7b3i8T7
 #https://epl-inews.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 #http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Ycnz4/Fox-Action-Movies.png" group-title="Movies", FOX Action Movies
-#https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=k7b3i8T7&amp;v=20200202
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=k7b3i8T7&amp;v=20200202
 #https://epl-inews.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #http://sync1b.iptv.bingo/live/46446?u=1889044&s=296d3be4ce4ccc81c4d978055925c4c0a76984638eb790ed6b4124bf563f532e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFX5h2r/FX-movie.png" group-title="Movies", FX
