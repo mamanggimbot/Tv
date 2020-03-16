@@ -117,7 +117,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2BLvs1/babyfirst.png" group-title="Kids",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTCtZRX/Dream-Works.png" group-title="Kids",DreamWorks
-https://dl.dropbox.com/s/o6xd9gjbhdwwtyr/Dreamwork.m3u8?dl=0
+#https://dl.dropbox.com/s/o6xd9gjbhdwwtyr/Dreamwork.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxBBLpX/nickjr.png" group-title="Kids",  Nick Jr
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #https://www.doofree88.com/streaming/sd-nickjr_480/index.m3u8
@@ -126,10 +126,8 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 https://www.doofree88.com/streaming/sd-cartoonnetwork_480/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnszbcb/Disney-XD.png" group-title="Kids",Disney XD
-https://www.doofree88.com/streaming/hd-disneyxd_720/index.m3u8
 #https://epl-inews.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQxY5nL/animax.png" group-title="Kids",Animax
-http://210.210.155.35/dr9445/h/h144/index2.m3u8
 #https://epl-inews.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K21P7zY/Aniplus.png" group-title="Kids",Aniplus
 http://rr1.dens.tv/h/h02/index.m3u8
