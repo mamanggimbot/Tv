@@ -163,12 +163,12 @@ https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ck3vKhr/E-tv.png" group-title="Movies", E!Tv
 https://livetvhooq.akamaized.net/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1583534824~exp=9007200838275815~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_2/chunklist.m3u8*~hmac=1919a5f608940f358fe74336007c2ffa32b0846849cc58f7875d0deb15704c12&hdnts=st=1583534826~exp=1583534946~acl=/*~id=2dec7e47-5c82-47bf-993e-a20a122fba93~data=180.247.83.138~hmac=1b85f3062282af415a3482415a2186f861b6ba4f5a43a7a986b0fe0ef7ea16ea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
-http://210.210.155.66/h/h141/02.m3u8
+http://210.210.155.66/h/h141/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
-http://45.126.83.51/session/d65c030a-01a0-11ea-810d-82939a388d5a/dr9445/h/h16/01.m3u8
+http://45.126.83.51/session/d65c030a-01a0-11ea-810d-82939a388d5a/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NDM1NjQ1N319fV19&Signature=SM1VK2Hl~bjRlkIZ2ZsDFQWT4ApXURpFvHtx-A2sCDirhUY~hpHJ9asjvcsK4PXbMzXPSsVdtUXQQsYN9NUk34j~eLf1lW9TTsvkw5dr88~lJot~Oy2lX3AxtLi1~HtMTrWAAW7h0gmAvtfjDT-F-y~JZkpHLAq6JBe~Vu53uGlrxRpL4IHQzvED0o0WKH205Yr6bx89a7mqSC07zUD6ZtXuuz~Nj8RQsd-Cf5dECgTikyMTFR-DpXwLCKwqffT-GEjPcdcZFqLntLPY5DvccMqlJ3rrM5brDJlGpnY4CmvdEqxnXJ5eikKhb69QJHEQL5ihGGs1A9y-nobs9~f3Xw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
@@ -187,6 +187,7 @@ http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsDtC6J/fox-crime.png" group-title="Movies", FOX Crime
 http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYjxthG/Fox-Life.png" group-title="Movies", FOX Life
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies
 http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/1
 #http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B0291E22C9844D0D59632CD55&profile=pass
@@ -310,27 +311,13 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85K8RLS/Real-Madrid.png" group-title="Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 1
-#https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
-#https://doofree88.com/streaming/epl-x1_720/index.m3u8
-#https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 2
-#https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
-#https://doofree88.com/streaming/epl-x2_720/index.m3u8
-#https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
-#https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
-#https://epl-inews.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
-#https://sport7.ws/lba/ZTAzM2Q4ODRlMDkzNjk1OTBlNmEzYWRhNjNhNjk5NzU=/g1/sk2serbia.m3u8?token=ZTAzM2Q4ODRlMDkzNjk1OTBlNmEzYWRhNjNhNjk5NzU=&id=NGMyODkxMzZlOTQwNDFlZDQ0OWYwYjZlY2ZkMzcyNTg=&vip=1582800597&dip=ZjQ0MDRlYjM0MjQ4OWJmNzVmY2NmZWU1ZTRiNGNjYTU=&pip=ZjY2ZDY0ZDU1ZjAxNjBlMTJlN2QwMTZiOGJiMjhjNTE=&hip=N2EwMTZjYmNjODZhNzhmMDc5YTMzODM3OTY5NDYyMWQ=
-#https://dl.dropbox.com/s/9g2cyhtu9ztxc0k/Live2.m3u8?dl=0
-#https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
-#https://epl-inews.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
-#https://sport7.ws/lba/MTVkY2E2Nzg4NTYyMjMyMDBmOGU2OWIyZDkwZDE5NGI=/g1/sport2port.m3u8?token=MTVkY2E2Nzg4NTYyMjMyMDBmOGU2OWIyZDkwZDE5NGI=&id=ZmUxYzdlMjU3MTkzMDA5MWJiZGZmODdjOWE1ZDAzMWQ=&vip=1582800671&dip=MmQyNzQyZTY3NjA0ZDBkNjFjNTJjOTkyMmMwZGJmZGM=&pip=ZjY2ZDY0ZDU1ZjAxNjBlMTJlN2QwMTZiOGJiMjhjNTE=&hip=N2EwMTZjYmNjODZhNzhmMDc5YTMzODM3OTY5NDYyMWQ=
-#https://dl.dropbox.com/s/iagv1nl6xgc67jn/Live3.m3u8?dl=0
-#https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
-#https://epl-inews.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/9
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QJvtYKz/Setanta-sports.png" group-title="Sports", Setanta Sports 1
 http://92.46.127.146:8080//SetantaSport/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QJvtYKz/Setanta-sports.png" group-title="Sports", Setanta Sports 2
@@ -338,24 +325,27 @@ https://sport7.ws/lba/ZDI0NDcxY2JmMDVhMTE4M2M5ODNjNjkwN2I2NjQ4NWQ=/g6/seteurasia
 #http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6bSmKCL/fight-sport.png" group-title="Sports", Fight Sports
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
-#https://epl-inews.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Q5KwXM/NBA-tv.png" group-title="Sports", NBA Tv
-#https://www.doofree88.com/streaming/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
-#https://doofree88.com/streaming/epl-bein1_720/index.m3u8
+https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
-#https://doofree88.com/streaming/epl-bein2_720/index.m3u8
+https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 1
+https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 2
+https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7r7V3zg/Champions-tv-1.png" group-title="Sports", Champions tv 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GTxPW1M/champions-tv-2.png" group-title="Sports", Champions tv 2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBKH8rt/bein-sport-extra.png" group-title="Sports", BeinSport Xtra
 #https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/18V7d9Z/Astro-Super-Sport-3.png" group-title="Sports", Astro Super Sport 3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="Sports", Astro Super Sport 4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ydg3VLK/Arena-Sport-1.png" group-title="Sports",Arena Sport 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 #https://mmm.sport7.biz/lba/ODFjYTNkN2Y1Yjk5OGI4OTAwODllMThhYjYzZmVmNWM=/g3/arena1.m3u8?token=ODFjYTNkN2Y1Yjk5OGI4OTAwODllMThhYjYzZmVmNWM=&id=MGQ4MzlhMjY4MTQyZmFhMTc2OGFmZjI0NTE2NDU3Yzg=&vip=1572756729&dip=OWQzNzA4NDY3MDk0NjI1MTZkNjJiNDNjOTFiYjQzOWU=&pip=36.71.232.99&hip=ZmUzOGIxNmI3OWVkMmRjNjU4NmVmNzNmNGZmMjI5NTA=
