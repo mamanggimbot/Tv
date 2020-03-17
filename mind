@@ -110,9 +110,9 @@ https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxBBLpX/nickjr.png" group-title="Kids",  Nick Jr
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNbGShR/cartoonnetwork.png" group-title="Kids",Cartoon Network
-https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
+#https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnszbcb/Disney-XD.png" group-title="Kids",Disney XD
-https://tv4.chang55.com/live2/tv4ch29.stream/chunks.m3u8
+#https://tv4.chang55.com/live2/tv4ch29.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQxY5nL/animax.png" group-title="Kids",Animax
 http://45.126.83.51/dr9445/h/h144/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K21P7zY/Aniplus.png" group-title="Kids",Aniplus
@@ -234,10 +234,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/28Fuzwz.png" group-title="Knowledge",History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rbgmLTq/BBC-Earth.png" group-title="Knowledge", BBC Earth
-https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnKKZZy/tlc.png" group-title="Knowledge", TLC
-https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-#https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+#https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPS9GSt.png" group-title="Knowledge",Foodie Channel
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
@@ -286,7 +285,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
-https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
 http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
