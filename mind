@@ -38,9 +38,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1584471140~acl=/hls-p/ingest_782_*
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv(3)
 http://210.210.155.35/session/cf48f862-550f-11ea-b06b-b82a72d63267/qwr9ew/s/s102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One(1)
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584500847~exp=9007200839241838~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=842acf9c82ee038121f07595ba5e4fae0fcf123f6dd488a493c187511951ccd8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One(2)
-https://etslive-2-vidio-com.akamaized.net/exp=1584471121~acl=/hls-p/ingest_783_*/*~hmac=d016b4e5ceee836c73e405b36dba95838d8ba6949420b3eee0bbdc12d182162d/hls-p/ingest_783_720p/index.m3u8
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bz6PgXz/Kompas-tv-SD.png" group-title="Local", Kompas TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584409539~exp=9007200839150530~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_0/chunklist.m3u8*~hmac=67595e2594493b6a978bcfc54477eadad99a335bafc99a4b583096a9b6158c11
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rd3B8kb/Berita-satu.png" group-title="Local",Berita Satu
