@@ -24,23 +24,27 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
 #http://210.210.155.35/session/eb69559e-0197-11ea-a0e0-b82a72d63267/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV(1)
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+https://delivery.macan.live/stream/id_sctv/index.m3u8?token=macanfree&v=20200308
+#http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV(2)
 https://etslive-2-vidio-com.akamaized.net/exp=1584515836~acl=/hls-p/ingest_204_*/*~hmac=fc145b4cd5715cc25a69ced3a8a0c793b591e36e28c0da20188be6a8043eb70a/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR(1)
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=macanfree&v=20200308
+#http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR(2)
 https://etslive-2-vidio-com.akamaized.net/exp=1584515814~acl=/hls-p/ingest_205_*/*~hmac=b9025556937e74887a08239fcfc6db05beae353550709ff385db90375d2ef213/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv(1)
-http://id2.indostreamingtv.com/live/antv/index.m3u8
+https://delivery.macan.live/stream/id_antv/index.m3u8?token=macanfree&v=20200308
+#http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv(2)
 https://etslive-2-vidio-com.akamaized.net/exp=1584515877~acl=/hls-p/ingest_782_*/*~hmac=9cfd454a2110be5b548ccb420271eddfc9cb188f283bcb9e8b900d801d69db5e/hls-p/ingest_782_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv(3)
 http://210.210.155.35/session/cf48f862-550f-11ea-b06b-b82a72d63267/qwr9ew/s/s102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One(1)
-https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584500847~exp=9007200839241838~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=842acf9c82ee038121f07595ba5e4fae0fcf123f6dd488a493c187511951ccd8
+https://delivery.macan.live/stream/id_tvone/index.m3u8?token=macanfree&v=20200308
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One(2)
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584500847~exp=9007200839241838~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=842acf9c82ee038121f07595ba5e4fae0fcf123f6dd488a493c187511951ccd8
+#http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bz6PgXz/Kompas-tv-SD.png" group-title="Local", Kompas TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584409539~exp=9007200839150530~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_0/chunklist.m3u8*~hmac=67595e2594493b6a978bcfc54477eadad99a335bafc99a4b583096a9b6158c11
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rd3B8kb/Berita-satu.png" group-title="Local",Berita Satu
