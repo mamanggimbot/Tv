@@ -26,18 +26,15 @@ http://45.126.83.51/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV(1)
 #http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
-http://210.210.155.35/session/5ac7fde4-69dc-11ea-b678-c81f66f89318/x6bnqe/s/s253/index.m3u8
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR(1)
 #http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR
-http://210.210.155.35/session/77419d40-69dc-11ea-b678-c81f66f89318/x6bnqe/s/s251/index.m3u8
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83CFD06348356F56C97D3CD&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv(1)
 #http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
-http://210.210.155.35/session/8a2a81d8-69dc-11ea-b678-c81f66f89318/x6bnqe/s/s254/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv(3)
-#http://210.210.155.35/session/cf48f862-550f-11ea-b06b-b82a72d63267/qwr9ew/s/s102/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One(1)
+http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One(2)
 https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584500847~exp=9007200839241838~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=842acf9c82ee038121f07595ba5e4fae0fcf123f6dd488a493c187511951ccd8
 #http://id1.indostreamingtv.com/live/tv444/index.m3u8
