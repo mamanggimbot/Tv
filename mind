@@ -165,17 +165,17 @@ https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJT
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NDcwMjA2MX19fV19&Signature=Edhb92~MMKCBq8JsoX2tzuk0NdLieZDhacn4Ukpi~DC0C1PtVsevHxAVeyB-nUk~UjhU0WcDmaYcuHKb1eGOJnYctdpa4iFzlc00e6Nr~E1mVG23lBDiC9D4QWinKpNvlhVS2IvrHN00acGc6WeVu9mnkoOeDbzwuihXbXTrVVnzoNDaig1xnuWzpRBORVOFwqD8UflhN6DqocTHo7rV~NWgQNtE0zE4BM-CzLATTYpMXZvOS19ZHSB8eLxdIrpLq-YBkKXRQ3DOQY3pc2Ir7qY7JiuDJuwUJrEfCr3ezhYhuPURBRzdxMaaKuNTFNvoJbsGIyVP4IsXzISoXLz~iA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
-#http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/4
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/54
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsDtC6J/fox-crime.png" group-title="Movies", FOX Crime
-#http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/5
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/55
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYjxthG/Fox-Life.png" group-title="Movies", FOX Life
-#http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/6
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/56
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies
-#http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/1
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/51
 #http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B0291E22C9844D0D59632CD55&profile=pass
 #http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Ycnz4/Fox-Action-Movies.png" group-title="Movies", FOX Action Movies
-#http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/3
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/53
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFX5h2r/FX-movie.png" group-title="Movies", FX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZmTMML/Crime-investigation.png" group-title="Movies", Crime Investigation
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j5g2dZD/Lifetime.png" group-title="Movies", Lifetime
