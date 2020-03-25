@@ -97,6 +97,8 @@ http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2BLvs1/babyfirst.png" group-title="Kids",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTCtZRX/Dream-Works.png" group-title="Kids",DreamWorks
+https://dl.dropboxusercontent.com/s/o6xd9gjbhdwwtyr/Dreamwork.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mXdGk18/boomerang.png" group-title="Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxBBLpX/nickjr.png" group-title="Kids",  Nick Jr
@@ -105,8 +107,6 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNbGShR/cartoonnetwork.png" group-title="Kids",Cartoon Network
 #https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PTCtZRX/Dream-Works.png" group-title="Kids",DreamWorks
-https://dl.dropboxusercontent.com/s/o6xd9gjbhdwwtyr/Dreamwork.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qxtf0cX/cbeebies.png" group-title="Kids",Cbeebies
 #https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnszbcb/Disney-XD.png" group-title="Kids",Disney XD
