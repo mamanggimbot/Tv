@@ -265,7 +265,8 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A2088
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 1
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="Sports", Liga Indonesia 2
-https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
+#https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
+https://dl.dropboxusercontent.com/s/ykushrsx98tcs2a/UseeSport2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports", Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony Ten 1
