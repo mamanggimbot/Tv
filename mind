@@ -133,10 +133,7 @@ https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ck3vKhr/E-tv.png" group-title="Movies", E!Tv
 https://livetvhooq.akamaized.net/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1583534824~exp=9007200838275815~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_2/chunklist.m3u8*~hmac=1919a5f608940f358fe74336007c2ffa32b0846849cc58f7875d0deb15704c12&hdnts=st=1583534826~exp=1583534946~acl=/*~id=2dec7e47-5c82-47bf-993e-a20a122fba93~data=180.247.83.138~hmac=1b85f3062282af415a3482415a2186f861b6ba4f5a43a7a986b0fe0ef7ea16ea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
-#http://45.126.83.51/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
-#http://45.126.83.51/session/d65c030a-01a0-11ea-810d-82939a388d5a/dr9445/h/h16/index.m3u8
+https://dl.dropboxusercontent.com/s/ckq9svw348mvnwy/WARNERTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NTMwNjg2OH19fV19&Signature=uA5zOdANdgJgR2xGW4sLoWYWE5UlsXAusdTta2RX8oemaBGrh3ZrV~FPWABLNG-J9z6~T-PTDWVCO5gT1QmuH1E9tQUl~TdEyDB33qUb1albHK1Vwuc92wIXEBvvTCol3LsYqQj2YmavK~BwBxCAFetIJwBnnO9Eey0Io4R2V-Lf1Jget1JoPWcZQyBcnv6kC0Zn0Xut~oDYVZe5bNfWhZ6BHHfxrH3OhxF6IR3PsYGUC3KtbU7tCnm9VmMTc0AWgrhe8kZuynb4usdTSng6hEjGzhhMJ-SMFLMzQ4~Cx9WzD8ruvbg2CbMS~bMj2ijZtNnm3z9nT6dNj9icqJro0A__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
@@ -166,7 +163,10 @@ http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/53
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #http://210.210.155.66/h/h141/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
+#http://45.126.83.51/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
+#http://45.126.83.51/session/d65c030a-01a0-11ea-810d-82939a388d5a/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFX5h2r/FX-movie.png" group-title="Movies", FX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZmTMML/Crime-investigation.png" group-title="Movies", Crime Investigation
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j5g2dZD/Lifetime.png" group-title="Movies", Lifetime
