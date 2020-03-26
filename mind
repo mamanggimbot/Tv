@@ -305,9 +305,9 @@ https://sport7.ws/lba/ZDI0NDcxY2JmMDVhMTE4M2M5ODNjNjkwN2I2NjQ4NWQ=/g6/seteurasia
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Q5KwXM/NBA-tv.png" group-title="Sports", NBA Tv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
-
+https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=3wvKSB3M&v=20200202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
-
+https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=3wvKSB3M&v=20200202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 2
@@ -315,12 +315,17 @@ http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7r7V3zg/Champions-tv-1.png" group-title="Sports", Champions tv 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GTxPW1M/champions-tv-2.png" group-title="Sports", Champions tv 2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBKH8rt/bein-sport-extra.png" group-title="Sports", BeinSport Xtra
+https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=3wvKSB3M&v=20200202
 #https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
+https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=3wvKSB3M&v=20200202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
+https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=3wvKSB3M&v=20200202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/18V7d9Z/Astro-Super-Sport-3.png" group-title="Sports", Astro Super Sport 3
+https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=3wvKSB3M&v=20200202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="Sports", Astro Super Sport 4
+https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=3wvKSB3M&v=20200202
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ydg3VLK/Arena-Sport-1.png" group-title="Sports",Arena Sport 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
