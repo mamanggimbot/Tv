@@ -163,8 +163,10 @@ http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/51
 http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/53
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
+http://210.210.155.66/h/h141/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-#http://210.210.155.66/h/h141/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
 #http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
