@@ -69,8 +69,6 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
 #Kids
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw462Ph/duck-tv.png" group-title="Kids", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gmwYNNW/Miaomi.png" group-title="Kids",Miao Mi
@@ -97,6 +95,8 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 #http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #Movies
 
