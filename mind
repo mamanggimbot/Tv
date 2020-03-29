@@ -28,7 +28,8 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83
 https://dl.dropbox.com/s/m44nh048zjmus4o/SCTV%20Usee.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
-https://dl.dropbox.com/s/ksehsscg2bm0p1o/TVONEhooq.m3u8?dl=0
+https://github.com/mamanggimbot/movie/raw/master/TvOne.m3u8
+#https://dl.dropbox.com/s/ksehsscg2bm0p1o/TVONEhooq.m3u8?dl=0
 #https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584500847~exp=9007200839241838~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=842acf9c82ee038121f07595ba5e4fae0fcf123f6dd488a493c187511951ccd8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bz6PgXz/Kompas-tv-SD.png" group-title="Local", Kompas TV
 https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3nTiA_tOcnbgIfK8fofl5I)/dm/3/x6pz4sa/d/live-2.m3u8
