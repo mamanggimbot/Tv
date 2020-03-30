@@ -18,7 +18,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sle
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Zr0qym/Metro-tv.png" group-title="Local", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbYwCD6/NETtv.png" group-title="Local", Net TV
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/nettv_all/skrz1j8exe/nettv_576p/chunks.m3u8?nimblesessionid=157923879&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIwIDg6NTA6MzEgQU0maGFzaF92YWx1ZT1maVZtQUZ4RGxqcnRZRE5QYk51V3FnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTEzODIwNXwxMjUuMTYwLjExMy40Ng==
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83CFD06348356F56C97D3CD&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
