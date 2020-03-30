@@ -111,6 +111,7 @@ http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
 https://dl.dropboxusercontent.com/s/ckq9svw348mvnwy/WARNERTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
@@ -122,19 +123,15 @@ http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F24
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
-http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/54
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsDtC6J/fox-crime.png" group-title="Movies", FOX Crime
-http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/55
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYjxthG/Fox-Life.png" group-title="Movies", FOX Life
-http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/56
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies
-http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/51
-#http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B0291E22C9844D0D59632CD55&profile=pass
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B0291E22C9844D0D59632CD55&profile=pass
 #http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Ycnz4/Fox-Action-Movies.png" group-title="Movies", FOX Action Movies
-http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/53
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="Movies", Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="Movies", Hollywood Movies
