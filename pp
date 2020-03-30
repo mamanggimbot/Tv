@@ -24,6 +24,7 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
 https://dl.dropbox.com/s/m44nh048zjmus4o/SCTV%20Usee.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
+http://id1.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
 https://dl.dropbox.com/s/ksehsscg2bm0p1o/TVONEhooq.m3u8?dl=0
 #https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584500847~exp=9007200839241838~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=842acf9c82ee038121f07595ba5e4fae0fcf123f6dd488a493c187511951ccd8
