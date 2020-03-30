@@ -205,11 +205,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85K8RLS/Real-Madrid.png" group-title="Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
-http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/7
+http://42.98.239.67:9981/stream/channelid/1766341416?ticket=FFB90DEF22560FE06B203A1F99F6DE1B14D0D9D6&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
-http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/8
+http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#http://42.98.239.67:9981/stream/channelid/65451456?ticket=262A488E55D93976F41B8F5E00E9D3DC3BF21045&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
-http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/9
+http://42.98.239.67:9981/stream/channelid/249779166?ticket=111291041933DB0AC2686FD646210E1B78F4AC8C&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
 https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=3wvKSB3M&v=20200202
 
