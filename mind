@@ -158,10 +158,12 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560046~exp=9007200830301037~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=63478ab3ea286fb358e2fdb6aceaf9bc19bb79dfcd13ecd3b820ca7eff0c19b7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6yGmD0L/home-living.png" group-title="Knowledge", Home And Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SrzQFzm/Asian-food.png" group-title="Knowledge",Asian Food
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SrzQFzm/Asian-food.png" group-title="Knowledge",Asian Food
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/94gwJw7/outdoor.png" group-title="Knowledge",Outdoor Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/94gwJw7/outdoor.png" group-title="Knowledge",Outdoor Channel
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582795905~exp=9007200837536896~acl=/4333904e5f68426cae808a645e882206/*/profile_3/chunklist.m3u8*~hmac=7e3927c18f846e0b96ceae73fb14f71a6350cd3b6aa0e93e5533ab19892f9bdb&hdnts=st=1582795909~exp=1582796029~acl=/*~id=eeb20e36-c978-4dda-8ffe-f200d829a8bb~data=36.77.80.127~hmac=163c25f215b5189200afeda2ce3883c41917672ddbf70e1b5a63db739909ccff
+#EXTINF:0 tvg-logo="https://i.ibb.co/tHqtyx8/Hi-indo.png" group-title="Knowledge",Hi indo!
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
 #EXTINF:0 tvg-logo="http://images.useetv.com/logo_natgeo_small.png" group-title="Knowledge", Nat Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtOImAa.png" group-title="Knowledge",Nat Geo Wild
@@ -177,7 +179,7 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE77
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnKKZZy/tlc.png" group-title="Knowledge", TLC
 #https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPS9GSt.png" group-title="Knowledge",Food
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPS9GSt.png" group-title="Knowledge",Food
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhDULwJ.png" group-title="Knowledge", Red Bull Tv
