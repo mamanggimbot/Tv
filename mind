@@ -220,6 +220,9 @@ http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2Vy
 http://42.98.239.67:9981/stream/channelid/249779166?ticket=111291041933DB0AC2686FD646210E1B78F4AC8C&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
 https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=3wvKSB3M&v=20200202
+#https://dl.dropbox.com/s/mfz6es4rxw0rzxo/beinss1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
+https://dl.dropbox.com/s/q9nzz87mcxq39iq/beins2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=3wvKSB3M&v=20200202
