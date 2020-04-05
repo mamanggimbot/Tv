@@ -94,7 +94,7 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQxY5nL/animax.png" group-title="Kids",Animax
 http://45.126.83.51/dr9445/h/h144/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K21P7zY/Aniplus.png" group-title="Kids",Aniplus
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/index.m3u8
+http://210.210.155.35/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
