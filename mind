@@ -42,7 +42,8 @@ https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PQ7409J/CNN-indo.png" group-title="Local", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4W7szt/RTV.png" group-title="Local", RTV
-https://dl.dropbox.com/s/mg3uihu9eua88np/RTVHooq.m3u8?dl=0
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(b84c57ee-7936-4c81-a9f5-29714084ce5b)/index.m3u8
+#https://dl.dropbox.com/s/mg3uihu9eua88np/RTVHooq.m3u8?dl=0
 #https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576332054~exp=9007200831073045~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=69ed7a9a6f068922ff6f10cc63f12e9f14bbd3863d5cdfb596b8f0dd9753b3ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQwpBLs/CNBC.png" group-title="Local", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
@@ -96,7 +97,8 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQxY5nL/animax.png" group-title="Kids",Animax
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K21P7zY/Aniplus.png" group-title="Kids",Aniplus
-http://210.210.155.35/dr9445/h/h02/index.m3u8
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/index.m3u8
+#http://210.210.155.35/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
@@ -111,7 +113,7 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/58dvXvh/Flik.png" group-title="Movies", FLIK
 https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
-http://210.210.155.66/h/h141/01.m3u8
+http://210.210.155.66/h/h141/index.m3u8
 #http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
 https://dl.dropboxusercontent.com/s/ckq9svw348mvnwy/WARNERTV.m3u8?dl=0
