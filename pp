@@ -223,18 +223,13 @@ http://42.98.239.67:9981/stream/channelid/65451456?ticket=262A488E55D93976F41B8F
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
 http://42.98.239.67:9981/stream/channelid/249779166?ticket=111291041933DB0AC2686FD646210E1B78F4AC8C&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
-https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=3wvKSB3M&v=20200202
 #https://dl.dropbox.com/s/mfz6es4rxw0rzxo/beinss1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
-https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=3wvKSB3M&v=20200202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
-https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=3wvKSB3M&v=20200202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/18V7d9Z/Astro-Super-Sport-3.png" group-title="Sports", Astro Super Sport 3
-https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=3wvKSB3M&v=20200202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="Sports", Astro Super Sport 4
-https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=3wvKSB3M&v=20200202
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQB06d9/olympic-channel.png" group-title="Sports", Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
