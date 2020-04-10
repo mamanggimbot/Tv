@@ -55,6 +55,8 @@ https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576332546~exp=9007200831073537~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=7c2f871185c6398130f92f2fdd386318a37eb468f51f397ca2831a049832cbd8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ggFCkWn/DW-english.png" group-title="Local", DW English
 https://livetvhooq.akamaized.net/e97d916eaf2a4c888a0a43cb633c54e3/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1575560426~exp=9007200830301417~acl=/e97d916eaf2a4c888a0a43cb633c54e3/*/profile_0/chunklist.m3u8*~hmac=587ebf4832a5ed23a09f2e7d851d945ae20655c988eda38237f6b6e09e146de6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQQvfFP/aljazeera.png" group-title="Local", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2s2qKQj/tvri.png" group-title="Local", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
