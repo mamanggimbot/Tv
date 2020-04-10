@@ -71,6 +71,14 @@ http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pRsDZcr/Wesal-Tv.png" group-title="Religi", Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFrhY8g/Rodja-Tv.png" group-title="Religi", Rodja Tv
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5GR6Lw8/Ahsan-Tv.png" group-title="Religi", Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXDk8xd/niagatv.png" group-title="Religi",Niaga TV Jagakarsa
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/McCzN40/alimantv.png" group-title="Religi",Al-Iman TV Surabaya
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 
 #Kids
 
