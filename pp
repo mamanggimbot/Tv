@@ -71,9 +71,9 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GR6Lw8/Ahsan-Tv.png" group-title="Religi", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXDk8xd/niagatv.png" group-title="Religi",Niaga TV Jagakarsa
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXDk8xd/niagatv.png" group-title="Religi",Niaga TV
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/McCzN40/alimantv.png" group-title="Religi",Al-Iman TV Surabaya
+#EXTINF:0 tvg-logo="https://i.ibb.co/McCzN40/alimantv.png" group-title="Religi",Al-Iman
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 
 #Kids
