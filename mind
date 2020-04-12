@@ -95,25 +95,18 @@ https://dl.dropboxusercontent.com/s/o6xd9gjbhdwwtyr/Dreamwork.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mXdGk18/boomerang.png" group-title="Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxBBLpX/nickjr.png" group-title="Kids",  Nick Jr
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:0 tvg-logo="https://i.ibb.co/Kq23Lvk/Disney-CHannel.png" group-title="Kids",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170
+https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w775795172_b684100_sleng.m3u8?ZLOxVaEaRGwGrqN-UwfWoA1582826373
+#http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNbGShR/cartoonnetwork.png" group-title="Kids",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qxtf0cX/cbeebies.png" group-title="Kids",Cbeebies
-#https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnszbcb/Disney-XD.png" group-title="Kids",Disney XD
-#https://tv4.chang55.com/live2/tv4ch29.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fQxY5nL/animax.png" group-title="Kids",Animax
-http://45.126.83.51/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K21P7zY/Aniplus.png" group-title="Kids",Aniplus
-#https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/index.m3u8
-http://210.210.155.35/dr9445/h/h02/index.m3u8
+https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w222947619_b684100_sleng.m3u8?i-H2I2xuDlrCy5R9fEj9dQ1582826096
+#http://203.153.218.28:9981/stream/channelid/251475608
+#EXTINF:0 tvg-logo="https://i.ibb.co/Kq23Lvk/Disney-CHannel.png" group-title="Kids",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
-#http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxzBCsv/horee.png" group-title="Kids", Horee
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w1829259596_b684100_sleng.m3u8?heGSGVXvFEpkSynVrBepDA1582826242
 
 #Movies
 
