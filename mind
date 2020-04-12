@@ -125,6 +125,10 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHqtyx8/Hi-indo.png" group-title="Movies",Hi indo!
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
+https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1228786229_b894100_sleng.m3u8?cG4K0nGSqlS9bY45qCCXtw1584799779
+#http://210.210.155.66/h/h141/index.m3u8
+#http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
 https://dl.dropboxusercontent.com/s/ckq9svw348mvnwy/WARNERTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
@@ -146,13 +150,12 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B0291E22C9844D0D59632CD55&profile=pass
 #http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYb1c5V/TVN.png" group-title="Movies", TvN
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w869027199_b894100_sleng.m3u8?PN87OzL29G4ymOlQslPNwg1584799876
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
 http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
-#http://210.210.155.66/h/h141/index.m3u8
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="Movies", Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="Movies", Hollywood Movies
