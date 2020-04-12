@@ -43,7 +43,7 @@ https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4W7szt/RTV.png" group-title="Local", RTV
 https://dl.dropbox.com/s/mg3uihu9eua88np/RTVHooq.m3u8?dl=0
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(b84c57ee-7936-4c81-a9f5-29714084ce5b)/index.m3u8
+#https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(b84c57ee-7936-4c81-a9f5-29714084ce5b)/index.m3u8
 #https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576332054~exp=9007200831073045~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=69ed7a9a6f068922ff6f10cc63f12e9f14bbd3863d5cdfb596b8f0dd9753b3ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQwpBLs/CNBC.png" group-title="Local", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
@@ -152,10 +152,8 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B029
 #http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYb1c5V/TVN.png" group-title="Movies", TvN
 https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w869027199_b894100_sleng.m3u8?PN87OzL29G4ymOlQslPNwg1584799876
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
-http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3SPBFc0/Tvn-Movies.png" group-title="Movies", TvN movies
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w692462726_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="Movies", Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="Movies", Hollywood Movies
@@ -234,18 +232,20 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85K8RLS/Real-Madrid.png" group-title="Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
-http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
-#http://42.98.239.67:9981/stream/channelid/1766341416?ticket=FFB90DEF22560FE06B203A1F99F6DE1B14D0D9D6&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
-#http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-http://42.98.239.67:9981/stream/channelid/65451456?ticket=262A488E55D93976F41B8F5E00E9D3DC3BF21045&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
-http://42.98.239.67:9981/stream/channelid/249779166?ticket=111291041933DB0AC2686FD646210E1B78F4AC8C&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
-#https://dl.dropbox.com/s/mfz6es4rxw0rzxo/beinss1.m3u8?dl=0
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w523080819_b1344100_sleng.m3u8?CY6m_NEXbRgX6j2coUhb4Q1582823596
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
-
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w115517397_b1344100_sleng.m3u8?BXcMrtNJnpCf5bYyw0o_UQ1582823785
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w825701812_b1344100_sleng.m3u8?ouw5njTyp4T1uhgbQN1vAw1579973729
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w2130220114_b1344100_sleng.m3u8?_3Xas0p5c8J0Xn9LyKD6xA1582824126
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1427889370_b1344100_sleng.m3u8?OEhUm0U_dj1lHeYcHzN6Qg1582824155
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7r7V3zg/Champions-tv-1.png" group-title="Sports", Champions tv 1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w379993603_b1344100_sleng.m3u8?l-OdPssifNY_01I3hQ5VPw1582823993
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GTxPW1M/champions-tv-2.png" group-title="Sports", Champions tv 2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w727818557_b1344100_sleng.m3u8?6DBDHGenkyrnLmv1Qt29Aw1582824044
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
@@ -257,8 +257,6 @@ https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQB06d9/olympic-channel.png" group-title="Sports", Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b19RnkS/betis-tv.png" group-title="Sports", Betis TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phH6gL2/dubai-racing.png" group-title="Sports", Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-logo="https://i.ibb.co/vYQPzgN/ad-sport-1.png" group-title="Sports", Ad Sports 1
