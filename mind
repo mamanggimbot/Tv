@@ -21,8 +21,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
 http://id1.indostreamingtv.com/live/antv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDIwIDM6MjQ6MTUgUE0maGFzaF92YWx1ZT0zQjZDeFNTYzFUeGxwUnJMQkNMekdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTEzODIwNXwxMjUuMTYwLjExMy4xMTA=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83CFD06348356F56C97D3CD&profile=pass
