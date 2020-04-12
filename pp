@@ -78,7 +78,6 @@ http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 
 #Kids
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw462Ph/duck-tv.png" group-title="Kids", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gmwYNNW/Miaomi.png" group-title="Kids",Miao Mi
@@ -92,26 +91,17 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxBBLpX/nickjr.png" group-title="Kids",  Nick Jr
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:0 tvg-logo="https://i.ibb.co/Kq23Lvk/Disney-CHannel.png" group-title="Kids",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+http://203.153.218.28:9981/stream/channelid/31701170
+#http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNbGShR/cartoonnetwork.png" group-title="Kids",Cartoon Network
-#https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qxtf0cX/cbeebies.png" group-title="Kids",Cbeebies
-#https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnszbcb/Disney-XD.png" group-title="Kids",Disney XD
-#https://tv4.chang55.com/live2/tv4ch29.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fQxY5nL/animax.png" group-title="Kids",Animax
-http://45.126.83.51/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K21P7zY/Aniplus.png" group-title="Kids",Aniplus
-http://210.210.155.35/dr9445/h/h02/index.m3u8
+http://203.153.218.28:9981/stream/channelid/251475608
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
+#http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #Movies
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dbyxf6h/First-Movies.png" group-title="Movies", First Movie
-#http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2htjs2L/Zee-Bioskop.png" group-title="Movies", Zee Bioskop
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/58dvXvh/Flik.png" group-title="Movies", FLIK
@@ -136,8 +126,12 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B0291E22C9844D0D59632CD55&profile=pass
 #http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYb1c5V/TVN.png" group-title="Movies", TvN
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w869027199_b894100_sleng.m3u8?PN87OzL29G4ymOlQslPNwg1584799876
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3SPBFc0/Tvn-Movies.png" group-title="Movies", TvN movies
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w692462726_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1228786229_b894100_sleng.m3u8?cG4K0nGSqlS9bY45qCCXtw1584799779
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
@@ -219,16 +213,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85K8RLS/Real-Madrid.png" group-title="Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
-http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
-#http://42.98.239.67:9981/stream/channelid/1766341416?ticket=FFB90DEF22560FE06B203A1F99F6DE1B14D0D9D6&profile=pass
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w825701812_b1344100_sleng.m3u8?ouw5njTyp4T1uhgbQN1vAw1579973729
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
-#http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-http://42.98.239.67:9981/stream/channelid/65451456?ticket=262A488E55D93976F41B8F5E00E9D3DC3BF21045&profile=pass
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w2130220114_b1344100_sleng.m3u8?_3Xas0p5c8J0Xn9LyKD6xA1582824126
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
-http://42.98.239.67:9981/stream/channelid/249779166?ticket=111291041933DB0AC2686FD646210E1B78F4AC8C&profile=pass
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1427889370_b1344100_sleng.m3u8?OEhUm0U_dj1lHeYcHzN6Qg158282415
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
-#https://dl.dropbox.com/s/mfz6es4rxw0rzxo/beinss1.m3u8?dl=0
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w523080819_b1344100_sleng.m3u8?CY6m_NEXbRgX6j2coUhb4Q1582823596
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w115517397_b1344100_sleng.m3u8?BXcMrtNJnpCf5bYyw0o_UQ1582823785
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
@@ -238,7 +231,7 @@ http://42.98.239.67:9981/stream/channelid/249779166?ticket=111291041933DB0AC2686
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQB06d9/olympic-channel.png" group-title="Sports", Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b19RnkS/betis-tv.png" group-title="Sports", Betis TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phH6gL2/dubai-racing.png" group-title="Sports", Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-logo="https://i.ibb.co/vYQPzgN/ad-sport-1.png" group-title="Sports", Ad Sports 1
