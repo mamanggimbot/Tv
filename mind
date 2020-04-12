@@ -85,15 +85,18 @@ http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 #Kids
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw462Ph/duck-tv.png" group-title="Kids", Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
+https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w1660067236_b684100_sleng.m3u8?jT-z86U33K4LSLwHjyHFoQ1582826203
+#http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gmwYNNW/Miaomi.png" group-title="Kids",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2BLvs1/babyfirst.png" group-title="Kids",Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1583928212_b684100_sleng.m3u8?JSKcCiVaSqOzOdX4HqtXYw1582826153
+#http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTCtZRX/Dream-Works.png" group-title="Kids",DreamWorks
 https://dl.dropboxusercontent.com/s/o6xd9gjbhdwwtyr/Dreamwork.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mXdGk18/boomerang.png" group-title="Kids",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w184362387_b684100_sleng.m3u8?3GG6IACW5olOdpRoYUTxkg1582826275
+#http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxBBLpX/nickjr.png" group-title="Kids",  Nick Jr
 https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w775795172_b684100_sleng.m3u8?ZLOxVaEaRGwGrqN-UwfWoA1582826373
 #http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
