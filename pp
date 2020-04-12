@@ -222,11 +222,18 @@ https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1427889370_b1344100_sleng
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w523080819_b1344100_sleng.m3u8?CY6m_NEXbRgX6j2coUhb4Q1582823596
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
 https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w115517397_b1344100_sleng.m3u8?BXcMrtNJnpCf5bYyw0o_UQ1582823785
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7r7V3zg/Champions-tv-1.png" group-title="Sports", Champions tv 1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w379993603_b1344100_sleng.m3u8?l-OdPssifNY_01I3hQ5VPw1582823993
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GTxPW1M/champions-tv-2.png" group-title="Sports", Champions tv 2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w727818557_b1344100_sleng.m3u8?6DBDHGenkyrnLmv1Qt29Aw1582824044
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
+https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
+https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/18V7d9Z/Astro-Super-Sport-3.png" group-title="Sports", Astro Super Sport 3
+https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="Sports", Astro Super Sport 4
+https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQB06d9/olympic-channel.png" group-title="Sports", Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
