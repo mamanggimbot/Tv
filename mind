@@ -25,8 +25,8 @@ http://id1.indostreamingtv.com/live/antv/index.m3u8
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83CFD06348356F56C97D3CD&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
-#https://dl.dropbox.com/s/m44nh048zjmus4o/SCTV%20Usee.m3u8?dl=0
+#http://id1.indostreamingtv.com/live/sctv/index.m3u8
+https://dl.dropbox.com/s/m44nh048zjmus4o/SCTV%20Usee.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #http://id1.indostreamingtv.com/live/tv444/index.m3u8
