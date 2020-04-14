@@ -37,7 +37,6 @@ https://dl.dropbox.com/s/21hoi90a81le4iz/inewshooq.m3u8?dl=0
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4W7szt/RTV.png" group-title="Local", RTV
 https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w1282137066_b684100_sleng.m3u8?1GWHSjsNJcnhboDmdWfHMw1584797725
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7yTH8mv/mytv.png" group-title="Local", Mytv
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 #https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
