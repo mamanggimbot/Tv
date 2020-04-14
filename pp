@@ -24,7 +24,7 @@ https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1302022438_b894100_sleng.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
 https://dl.dropbox.com/s/m44nh048zjmus4o/SCTV%20Usee.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
-http://id1.indostreamingtv.com/live/antv/index.m3u8
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1504398086_b894100_sleng.m3u8?-W1Ha1bGpzWLODGE8OGDSg1582824826
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w842404487_b894100_sleng.m3u8?L8W_5ybofY9z9WAejxQ5jA1584796197
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bz6PgXz/Kompas-tv-SD.png" group-title="Local", Kompas TV
