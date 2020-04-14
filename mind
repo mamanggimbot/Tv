@@ -93,6 +93,8 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2BLvs1/babyfirst.png" group-title="Kids",Baby First
 https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1583928212_b684100_sleng.m3u8?JSKcCiVaSqOzOdX4HqtXYw1582826153
 #http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxzBCsv/horee.png" group-title="Kids", Horee
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w1829259596_b684100_sleng.m3u8?heGSGVXvFEpkSynVrBepDA1582826242
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTCtZRX/Dream-Works.png" group-title="Kids",DreamWorks
 https://dl.dropboxusercontent.com/s/o6xd9gjbhdwwtyr/Dreamwork.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mXdGk18/boomerang.png" group-title="Kids",Boomerang
@@ -109,8 +111,6 @@ https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w222947619_b684100_sl
 http://203.153.218.28:9981/stream/channelid/31701170
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxzBCsv/horee.png" group-title="Kids", Horee
-https://vcdnjt.useetv.com/joss/14/horee/chunklist_w1829259596_b684100_sleng.m3u8?heGSGVXvFEpkSynVrBepDA1582826242
 
 #Movies
 
