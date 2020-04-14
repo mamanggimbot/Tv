@@ -20,20 +20,15 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbYwCD6/NETtv.png" group-title="Local", Net TV
 https://vcdnjt.useetv.com/joss/15/net/chunklist_w497456214_b1344100_sleng.m3u8?aXFX8Y1okcr1qV6LXW1vUg1582825404
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83CFD06348356F56C97D3CD&profile=pass
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1302022438_b894100_sleng.m3u8?VQSA-tjGlLDdXz4nFmK2vA1582825127
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
 https://dl.dropbox.com/s/m44nh048zjmus4o/SCTV%20Usee.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
 http://id1.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
-https://dl.dropbox.com/s/ksehsscg2bm0p1o/TVONEhooq.m3u8?dl=0
-#https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584500847~exp=9007200839241838~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=842acf9c82ee038121f07595ba5e4fae0fcf123f6dd488a493c187511951ccd8
+https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w842404487_b894100_sleng.m3u8?L8W_5ybofY9z9WAejxQ5jA1584796197
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bz6PgXz/Kompas-tv-SD.png" group-title="Local", Kompas TV
-https://dl.dropbox.com/s/gf9bsext8oz6fj3/Kompashooq.m3u8?dl=0
-#https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3nTiA_tOcnbgIfK8fofl5I)/dm/3/x6pz4sa/d/live-2.m3u8
-#https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584409539~exp=9007200839150530~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_0/chunklist.m3u8*~hmac=67595e2594493b6a978bcfc54477eadad99a335bafc99a4b583096a9b6158c11
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w643424809_b894100_sleng.m3u8?Y7zfRRR0HIRAIrL8IC-IUw1582825250
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rd3B8kb/Berita-satu.png" group-title="Local", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSYZtTc/inewstv.png" group-title="Local", INews TV
@@ -41,9 +36,7 @@ https://dl.dropbox.com/s/21hoi90a81le4iz/inewshooq.m3u8?dl=0
 #EXTINF:0 tvg-logo="https://i.ibb.co/PQ7409J/CNN-indo.png" group-title="Local", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4W7szt/RTV.png" group-title="Local", RTV
-https://dl.dropbox.com/s/mg3uihu9eua88np/RTVHooq.m3u8?dl=0
-#https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576332054~exp=9007200831073045~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=69ed7a9a6f068922ff6f10cc63f12e9f14bbd3863d5cdfb596b8f0dd9753b3ba
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PQwpBLs/CNBC.png" group-title="Local", CNBC Indonesia
+https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w1282137066_b684100_sleng.m3u8?1GWHSjsNJcnhboDmdWfHMw1584797725
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7yTH8mv/mytv.png" group-title="Local", Mytv
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
@@ -79,26 +72,31 @@ http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 #Kids
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw462Ph/duck-tv.png" group-title="Kids", Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
+https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w1660067236_b684100_sleng.m3u8?jT-z86U33K4LSLwHjyHFoQ1582826203
+#http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gmwYNNW/Miaomi.png" group-title="Kids",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2BLvs1/babyfirst.png" group-title="Kids",Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1583928212_b684100_sleng.m3u8?JSKcCiVaSqOzOdX4HqtXYw1582826153
+#http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxzBCsv/horee.png" group-title="Kids", Horee
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w1829259596_b684100_sleng.m3u8?heGSGVXvFEpkSynVrBepDA1582826242
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTCtZRX/Dream-Works.png" group-title="Kids",DreamWorks
 https://dl.dropboxusercontent.com/s/o6xd9gjbhdwwtyr/Dreamwork.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mXdGk18/boomerang.png" group-title="Kids",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w184362387_b684100_sleng.m3u8?3GG6IACW5olOdpRoYUTxkg1582826275
+#http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxBBLpX/nickjr.png" group-title="Kids",  Nick Jr
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:0 tvg-logo="https://i.ibb.co/Kq23Lvk/Disney-CHannel.png" group-title="Kids",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170
+https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w775795172_b684100_sleng.m3u8?ZLOxVaEaRGwGrqN-UwfWoA1582826373
+#http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNbGShR/cartoonnetwork.png" group-title="Kids",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608
+https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w222947619_b684100_sleng.m3u8?i-H2I2xuDlrCy5R9fEj9dQ1582826096
+#http://203.153.218.28:9981/stream/channelid/251475608
+#EXTINF:0 tvg-logo="https://i.ibb.co/Kq23Lvk/Disney-CHannel.png" group-title="Kids",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
-#http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #Movies
 
@@ -132,10 +130,6 @@ https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w869027199_b894100_sleng.m3u8?PN
 https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w692462726_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
 https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1228786229_b894100_sleng.m3u8?cG4K0nGSqlS9bY45qCCXtw1584799779
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
-http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="Movies", Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="Movies", Hollywood Movies
@@ -194,9 +188,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 1
 https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
-#https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="Sports", Liga Indonesia 2
-#https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
 https://dl.dropboxusercontent.com/s/ykushrsx98tcs2a/UseeSport2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports", Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
