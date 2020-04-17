@@ -1,7 +1,6 @@
 #EXTINF
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tkVZsHf.png" group-title="", Welcome
-https://video.twimg.com/ext_tw_video/1213262070826852352/pu/pl/1264x720/ZUZDjbMk0uFcY-Ij.m3u8
+Enak ya tinggal copas ? di upload lg ke youtube , woi otak kosong tah?
 
 #Local
 
